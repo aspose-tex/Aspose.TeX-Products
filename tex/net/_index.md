@@ -1,16 +1,16 @@
 ---
-title: Aspose.TeX for .NET - Common 
+title: Typeset TeX files .NET APIs 
 weight: 20
 url: /net/ 
-description:
+description: C# ASP.NET VB.NET library to typeset TeX documents
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX " subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/pricing/tex/net" docsLink="https://docs.aspose.com/tex/net/release-notes/" installationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -379,7 +379,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/net" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/net" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
