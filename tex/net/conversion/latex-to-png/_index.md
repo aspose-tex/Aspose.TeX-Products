@@ -4,7 +4,7 @@ description: Convert TeX files using .NET API on Windows, macOS & Linux
 url: /net/conversion/latex-to-png/
 family: tex
 platformtag: net
-feature: conversions
+feature: conversion
 informat: LATEX
 outformat: PNG
 otherformats: BMP TIFF JPEG PDF

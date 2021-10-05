@@ -4,7 +4,7 @@ description: Convert TeX files using .NET API on Windows, macOS & Linux
 url: /net/conversion/latex-to-jpeg/
 family: tex
 platformtag: net
-feature: conversions
+feature: conversion
 informat: LATEX
 outformat: JPEG
 otherformats: PNG PDF TIFF BMP
