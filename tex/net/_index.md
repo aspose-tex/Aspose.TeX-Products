@@ -13,9 +13,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.TeX for .NET is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
-</p>
+<p>Aspose.TeX for .NET is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
