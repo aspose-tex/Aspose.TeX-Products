@@ -47,7 +47,7 @@ Process of converting LaTeX to PDF is same as images, except that API provides [
 
 Here is the way for converting TeX (LaTeX) to XPS Programmatically. Firstly create typesetting options TeXOptions on ObjectTeX engine extension and define the file system working folder for input / output. Run Typesetting with [XpsDevice](https://apireference.aspose.com/tex/net/aspose.tex.presentation.xps/xpsdevice) for TeX to XPS conversion programmatically.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code for XPS to Image Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for LaTex to XPS Conversion" %}}
 
 {{< gist "aspose-com-gists" "b6ff8a0d32ac7353678b69d23db6e8c6" "convert-TeX-to-XPS.cs" >}}
 
