@@ -6,13 +6,13 @@ description: On Premise APIs and Free Apps to typeset TeX documents.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="On Premise APIs and free apps for TeX files typesetting." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="On Premise APIs and free apps for TeX files typesetting." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productLink="https://products.aspose.com/tex/net/" >}}
-On Premise APIs to typeset TeX files in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
+On Premise APIs to typeset TeX files in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productLink="https://products.aspose.com/tex/java/" >}}
@@ -29,7 +29,7 @@ C++ On Premise API to typeset TeX files.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

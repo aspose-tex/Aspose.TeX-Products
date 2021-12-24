@@ -101,7 +101,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
+   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -323,7 +323,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD &amp; PSB file formats for manipulation &amp; conversion but it also provides the capability to create PUB &amp; PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD &amp; PSB file formats for manipulation &amp; conversion but it also provides the capability to create PUB &amp; PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 

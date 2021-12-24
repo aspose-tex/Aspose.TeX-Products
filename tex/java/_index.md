@@ -103,7 +103,7 @@ description: Library to Typeset TeX files within Java based applications
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
+   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

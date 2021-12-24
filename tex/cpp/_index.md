@@ -6,7 +6,7 @@ description: C++ TeX library to typeset within C++ applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 
@@ -14,7 +14,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.TeX for C++ is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
+ Aspose.TeX for C++ is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,7 +22,7 @@ description: C++ TeX library to typeset within C++ applications
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.TeX for C++ API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.TeX for C++ API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -145,7 +145,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file formats](https://docs.aspose.com/tex/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file formats](https://docs.aspose.com/tex/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -224,7 +224,7 @@ description: C++ TeX library to typeset within C++ applications
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced C++ TeX Files Typesetting API Features
+    Advanced C++ TeX Files Typesetting API Features
    </h2>
    <p>
    </p>
