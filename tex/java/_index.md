@@ -81,7 +81,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
+  <img width="70" height="75" alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -122,7 +122,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
+  <img width="70" height="75" alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -191,7 +191,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
+  <img width="70" height="75" alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
