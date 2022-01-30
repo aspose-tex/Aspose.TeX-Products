@@ -9,7 +9,7 @@ description: Typeset TeX files on any platform
 {{< blocks/products/pf/upper-banner h1="Typeset TeX files on any Platform" h2="Native APIs to typeset TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex.svg" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.TeX High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productLink="/tex/net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
