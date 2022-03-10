@@ -61,16 +61,9 @@ Aspose.TeX for Java is supported on all major operating systems. Just make sure 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code for LATEX to JPEG Conversion" gistPath="" %}}
-```cs
-// Create conversion options for Object LaTeX format on Object TeX engine extension.
-TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
-// Specify the file system working directory for the output.
-options.setOutputWorkingDirectory(new OutputFileSystemDirectory("/output"));
-// Initialize the options for saving in JPEG format.
-options.setSaveOptions(new JpegSaveOptions());
-// Run LaTeX to JPEG format conversion.
-new TeXJob("hello-world.ltx", new ImageDevice(), options).run();
-```
+
+{{< gist "aspose-com-gists" "a94cd0f5d4e008d2f9a334004e5a3743" "convert-latex-to-jpg.java" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}
