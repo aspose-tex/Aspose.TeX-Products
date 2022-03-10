@@ -81,7 +81,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ TeX Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ TeX Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -127,7 +127,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
+  <img width="70" height="75" alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -196,7 +196,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>

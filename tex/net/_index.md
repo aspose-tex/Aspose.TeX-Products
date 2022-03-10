@@ -79,7 +79,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
+  <img width="70" height="75" alt=".NET TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -121,7 +121,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
+  <img width="70" height="75" alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -190,7 +190,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
+  <img width="70" height="75" alt=".NET TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
