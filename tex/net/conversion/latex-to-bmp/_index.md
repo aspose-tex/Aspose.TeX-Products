@@ -29,12 +29,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for LATEX to BMP Conversion" gistPath="" %}}
-```cs
-TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectLaTeX);
-options.OutputWorkingDirectory = new OutputFileSystemDirectory("/output");
-options.SaveOptions = new BmpSaveOptions();
-new TeXJob("sample.tex", new ImageDevice(), options).Run();
-```
+
+{{< gist "aspose-com-gists" "62ad6f22e48994af877bc847d83573a1" "convert-latex-to-bmp.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}
