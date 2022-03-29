@@ -1,12 +1,12 @@
 ---
-title: Java API to typeset TeX Documents 
+title: Java API to typeset and convert TeX and LaTeX Documents 
 weight: 40
 url: /java/ 
-description: Library to Typeset TeX files within Java based applications
+description: Java-based library to work with TeX and LaTeX files. The solution offers you typesetting functionality along with conversion TeX/LaTeX to PDf, SVG, XPS, and other formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to process TeX files" h2="Typeset and convert TeX and LaTeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
@@ -14,7 +14,11 @@ description: Library to Typeset TeX files within Java based applications
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.TeX for Java is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
+TeX is a programming language, you may find it called a data markup one. At the same time, TeX is an interpreter engine that understands this language and a typesetting system as a whole.
+It is used for mathematical or technical text writing. Many different packets have been created on the basis of ΤeΧ. The most famous such packet is LaTeX. It lets authors focus on the text and leave the typography process to the program. With LaTeX the structured documents are easy to create and manage.
+</p>
+<p>
+Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly. 
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -157,6 +161,12 @@ description: Library to Typeset TeX files within Java based applications
      </strong>
      files
     </li>
+    <li>
+     <strong>
+      LaTeX
+     </strong>
+     files
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -178,6 +188,9 @@ description: Library to Typeset TeX files within Java based applications
     </li>
     <li>
      JPEG
+    </li>
+    <li>
+     SVG
     </li>
     <li>
      TIFF

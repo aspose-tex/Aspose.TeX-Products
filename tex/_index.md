@@ -1,12 +1,12 @@
 ---
-title: TeX Files Typesetting APIs & Apps - Aspose 
+title: TeX and LaTeX Files Typesetting APIs and Apps. 
 weight: 30
 url: /
-description: High Code APIs and Free Apps to typeset TeX documents.
+description: TeX High Code APIs and Free Apps to typeset, process, and convert TeX documents. This solution also supports PDF, EPS, SVG and most image formats as output formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="High Code APIs and free apps for TeX files typesetting." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="API solution to typeset and convert TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX High Code APIs Include" >}}
@@ -16,14 +16,32 @@ High Code APIs to typeset TeX files in Windows Forms, ASP.NET, WPF, WCF or any t
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productLink="https://products.aspose.com/tex/java/" >}}
-High Code APIs to typeset TeX files within Java-based applications.
+Java solution to typeset TeX files within Java-based applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productLink="https://products.aspose.com/tex/cpp/" >}}
-C++ On Premise API to typeset TeX files.
+C++ On Premise API to typeset TeX and convert files.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/tex/family/" innerText="View All High Code APIs" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Page No Code Apps Include" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.TeX " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/tex/viewer" >}}
+Open to view TeX and LaTeX files in an easy way.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.TeX" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/tex/conversion" >}}
+Convert TeX and LaTeX files to PDF, XPS or image formats.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.TeX " title="Merger" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/tex/merger" >}}
+Combine several TeX or LaTeX files into a single PDF file.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

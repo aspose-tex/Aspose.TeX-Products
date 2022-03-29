@@ -1,12 +1,12 @@
 ---
-title: TeX Files Typesetting APIs - Aspose 
+title: TeX Files Typesetting API solution for Java, .NET and C++
 weight: 10
 url: /family
-description: Typeset TeX files on any platform
+description: TeX Native APIs for .NET, Java and C++. An easy-to-use solution to typeset, edit and convert TeX files on any platform. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Typeset TeX files on any Platform" h2="Native APIs to typeset TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex.svg" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Typeset TeX files on any Platform" h2="Native APIs to typeset and convert TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex.svg" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX High Code APIs Include" >}}
@@ -20,7 +20,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productLink="/tex/cpp/" >}}
-Integrate TeX files typesetting into C++ applications.
+Integrate TeX files typesetting and conversion functionality into C++ applications.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
