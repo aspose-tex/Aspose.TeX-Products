@@ -1,19 +1,26 @@
 ---
-title: Typeset TeX files .NET APIs 
+title: TeX files manipulation and conversion .NET APIs.  
 weight: 20
 url: /net/ 
-description: C# ASP.NET VB.NET library to typeset TeX documents
+description: C# ASP.NET VB.NET library to typeset TeX documents. The solution supports many output file formats like XPS, PDF, SVG, PNG, JPEG, TIFF, BMP.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.TeX for .NET is flexible and easy to use library to typeset TeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, BMP. It can also create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.</p>
+
+<p>
+TeX is a programming language, you may find it called a data markup one. At the same time, TeX is an interpreter engine that understands this language and a typesetting system as a whole.
+It is used for mathematical or technical text writing. Many different packets have been created on the basis of ΤeΧ. The most famous such packet is LaTeX. It lets authors focus on the text and leave the typography process to the program. With LaTeX the structured documents are easy to create and manage.
+</p>
+<p>
+Aspose.TeX for .NET is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly. 
+</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -56,7 +63,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
      Typeset TeX files
     </li>
     <li>
-     Obtain output documents in different formats like XPS, PDF, PNG, JPEG, TIFF, BMP
+     Obtain output documents in different formats like XPS, PDF, PNG, JPEG, TIFF, BMP, SVG
     </li>
     <li>
      Write output document to a stream
@@ -156,6 +163,12 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
      </strong>
      files
     </li>
+    <li>
+     <strong>
+      LaTeX
+     </strong>
+     files
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -177,6 +190,9 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
     </li>
     <li>
      JPEG
+    </li>
+    <li>
+     SVG
     </li>
     <li>
      TIFF
