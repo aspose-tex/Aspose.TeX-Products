@@ -6,7 +6,7 @@ description: TeX High Code APIs and Apps to typeset, process, and convert TeX do
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="API solution to typeset and convert TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="API solution and cross-platform applications to typeset, edit, and convert TeX (LaTeX) files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX High Code APIs Include" >}}
