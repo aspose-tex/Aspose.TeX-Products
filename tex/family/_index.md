@@ -1,8 +1,8 @@
 ---
-title: TeX Files Typesetting API solution for Java, .NET and C++
+title: TeX API solution for Java, .NET and C++
 weight: 10
 url: /family
-description: TeX Native APIs for .NET, Java and C++. An easy-to-use solution to typeset, edit and convert TeX files on any platform. 
+description: TeX Native APIs for .NET, Java and C++. This is an easy-to-use and integrate solution to typeset, process and convert TeX and LaTeX files on any platform. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

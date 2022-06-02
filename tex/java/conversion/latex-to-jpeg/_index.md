@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to JPEG with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to JPEG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to JPEG.
 url: /java/conversion/latex-to-jpeg/
 family: tex
 platformtag: java

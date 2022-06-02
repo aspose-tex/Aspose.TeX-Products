@@ -2,7 +2,7 @@
 title: C++ TeX Integration and Processing API - Aspose 
 weight: 50
 url: /cpp/ 
-description: C++ TeX library to process TeX and LaTeX files within C++ applications. It offers you typesetting functionality along with conversion TeX/LaTeX to PDf, SVG, XPS, and other formats.
+description: C++ TeX library to process TeX files within C++ applications. It offers typesetting functionality along with conversion TeX to PDf, SVG, XPS, and other formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

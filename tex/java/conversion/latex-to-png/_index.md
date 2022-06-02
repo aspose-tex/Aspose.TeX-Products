@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to PNG with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to PNG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to PNG.
 url: /java/conversion/latex-to-png/
 family: tex
 platformtag: java

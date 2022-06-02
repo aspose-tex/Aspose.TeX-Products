@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to JPEG with .NET 
-description: Convert TeX files using .NET API on Windows, macOS & Linux
+description: LaTeX to JPEG conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert LaTeX to JPEG.
 url: /net/conversion/latex-to-jpeg/
 family: tex
 platformtag: net
