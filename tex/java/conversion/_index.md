@@ -1,7 +1,7 @@
 ---
 title: Java TeX (LaTeX) Files Conversion
 url: /java/conversion/
-description: Convert LaTeX files to PDF, XPS and Images including PNG, JPEG, TIFF, BMP via Java library.
+description: TeX and LaTeX conversion functionality. Convert LaTeX files to PDF, XPS, and image formats including PNG, JPEG, TIFF, and BMP using this Java API solution.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

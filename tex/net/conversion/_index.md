@@ -1,7 +1,7 @@
 ---
 title: C# TeX (LaTeX) Files Conversion
 url: /net/conversion/
-description: Convert LaTeX files to PDF, XPS and Images including PNG, JPEG, TIFF, BMP with few lines of C# code via .NET library.
+description: TeX and LaTeX conversion functionality. Convert LaTeX files to PDF, XPS, and image formats including PNG, JPEG, TIFF, and BMP using this .NET API solution.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

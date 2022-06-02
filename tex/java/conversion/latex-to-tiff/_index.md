@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to TIFF with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to TIFF conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to TIFF.
 url: /java/conversion/latex-to-tiff/
 family: tex
 platformtag: java

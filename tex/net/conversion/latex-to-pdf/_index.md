@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to PDF with .NET 
-description: Convert TeX files using .NET API on Windows, macOS & Linux
+description: LaTeX to PDF conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert LaTeX to PDF.
 url: /net/conversion/latex-to-pdf/
 family: tex
 platformtag: net

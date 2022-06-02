@@ -1,8 +1,8 @@
 ---
-title: TeX and LaTeX Files Typesetting APIs and Apps. 
+title: TeX and LaTeX API and web solutions
 weight: 30
 url: /
-description: TeX High Code APIs and Free Apps to typeset, process, and convert TeX documents. This solution also supports PDF, EPS, SVG and most image formats as output formats.
+description: TeX High Code APIs and Apps to typeset, process, and convert TeX documents. This solution also supports PDF, EPS, SVG and most image formats as output formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

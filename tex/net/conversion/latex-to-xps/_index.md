@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to XPS with .NET 
-description: Convert TeX files using .NET API on Windows, macOS & Linux
+description: LaTeX to XPS conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert LaTeX to XPS.
 url: /net/conversion/latex-to-xps/
 family: tex
 platformtag: net

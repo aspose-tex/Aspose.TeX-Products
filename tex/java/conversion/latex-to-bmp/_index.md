@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to BMP with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to BMP conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to BMP.
 url: /java/conversion/latex-to-bmp/
 family: tex
 platformtag: java
