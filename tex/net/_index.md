@@ -1,5 +1,5 @@
 ---
-title: TeX files manipulation and conversion .NET APIs.  
+title: .NET APIs and apps to process TeX docs 
 weight: 20
 url: /net/ 
 description: C# ASP.NET VB.NET library to typeset TeX documents. The solution supports many output file formats like XPS, PDF, SVG, PNG, JPEG, TIFF, BMP.

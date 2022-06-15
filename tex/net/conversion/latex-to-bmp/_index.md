@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to BMP with .NET 
-description: Convert TeX files using .NET API on Windows, macOS & Linux
+description: LaTeX to BMP conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert LaTeX to BMP.
 url: /net/conversion/latex-to-bmp/
 family: tex
 platformtag: net

@@ -1,8 +1,8 @@
 ---
-title: Java API to typeset and convert TeX and LaTeX Documents 
+title: Java API to process TeX and LaTeX Docs
 weight: 40
 url: /java/ 
-description: Java-based library to work with TeX and LaTeX files. The solution offers you typesetting functionality along with conversion TeX/LaTeX to PDf, SVG, XPS, and other formats.
+description: C++ TeX library to process TeX files within C++ applications. It offers typesetting functionality and conversion TeX to PDf, SVG, XPS, and other formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

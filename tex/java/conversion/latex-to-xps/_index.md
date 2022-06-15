@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to XPS with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to XPS conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to XPS.
 url: /java/conversion/latex-to-xps/
 family: tex
 platformtag: java

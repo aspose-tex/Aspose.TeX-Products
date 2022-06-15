@@ -1,12 +1,12 @@
 ---
-title: TeX and LaTeX Files Typesetting APIs and Apps. 
+title: TeX and LaTeX API and web solutions
 weight: 30
 url: /
-description: TeX High Code APIs and Free Apps to typeset, process, and convert TeX documents. This solution also supports PDF, EPS, SVG and most image formats as output formats.
+description: TeX High Code APIs and Apps to typeset, process, and convert TeX documents. This solution also supports PDF, EPS, SVG and most image formats as output formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="API solution to typeset and convert TeX files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="API solution and cross-platform applications to typeset, edit, and convert TeX (LaTeX) files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX High Code APIs Include" >}}

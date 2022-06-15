@@ -1,6 +1,6 @@
 ---
 title: Convert LATEX to PDF with Java 
-description: Convert TeX files using Java API using On-premise Java library
+description: LaTeX to PDF conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to PDF.
 url: /java/conversion/latex-to-pdf/
 family: tex
 platformtag: java
