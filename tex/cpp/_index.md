@@ -309,7 +309,7 @@ Aspose.TeX for C++ is a flexible and easy-to-use library to typeset TeX and LaTe
      Typeset TeX files
     </h2>
     <p>
-     Aspose.TeX for C++ can easily typeset TeX files to get documents in different formats.
+     Aspose.TeX for C++ can easily typeset TeX files to <a href="/tex/cpp/conversion/">get documents</a> in different formats.
     </p>
    </div>
   </div>
