@@ -18,19 +18,19 @@ Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is t
 
 {{% blocks/products/pf/feature-page-section  h2="Convert LaTeX to Images, XPS, PDF, SVG" %}}
 
-To convert LaTeX files to Images, XPS or PDF, create instance of the [TeXOptions class](https://apireference.aspose.com/tex/net/aspose.tex/texoptions). 
+To convert LaTeX files to Images, XPS or PDF, create instance of the [TeXOptions class](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options). 
 Define the options with specific settings like the file system working directory for the output using 
-[OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/outputworkingdirectory/) 
+[OutputWorkingDirectory](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63) 
 and for the input using 
-[InputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/inputworkingdirectory/) 
+[InputWorkingDirectory](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63) 
 and save options such as 
-[PdfSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfsaveoptions), 
-[SvgSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.svg/svgsaveoptions), 
-[BmpSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/bmpsaveoptions), 
-[PngSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/pngsaveoptions), 
-[TiffSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/tiffsaveoptions),
-[JpegSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/jpegsaveoptions). 
-[XpsSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.xps/xpssaveoptions) is default, not need to set.
+[PdfSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.pdf.pdf_save_options), 
+[SvgSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.svg.svg_save_options), 
+[BmpSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.bmp_save_options), 
+[PngSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.png_save_options), 
+[TiffSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.tiff_save_options),
+[JpegSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.jpeg_save_options). 
+[XpsSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.xps.xps_save_options) is default, not need to set.
 And finally run conversion using TeXJob method.
 
 {{% /blocks/products/pf/feature-page-section %}}
