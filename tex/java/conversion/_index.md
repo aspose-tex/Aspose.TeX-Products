@@ -1,60 +1,62 @@
 ---
 title: Java TeX (LaTeX) Files Conversion
 url: /java/conversion/
-description: TeX and LaTeX conversion functionality. Convert LaTeX files to PDF, XPS, and image formats including PNG, JPEG, TIFF, and BMP using this Java API solution.
+description: TeX and LaTeX conversion functionality. Convert TeX / LaTeX files to PDF, SVG, XPS, and image formats including PNG, JPEG, TIFF, and BMP using this .NET API solution.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="LaTeX Files Conversion Via Java" h2="Convert LaTeX Files to Images, XPS and PDF to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="TeX / LaTeX Files Conversion Via Java" h2="Convert TeX / LaTeX Files to XPS, SVG, PDF and Images to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
 
-Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is the [Tex introduction](https://docs.aspose.com/tex/net/what-is-tex/). Developers can easily convert LaTeX to XPS, PDF and Images including PNG, JPG, BMP and TIFF formats by integrating the API within Java based solutions. Below are few code examples that programmers can integrate for LaTex conversion solutions.
+Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is the [Tex introduction](https://docs.aspose.com/tex/net/what-is-tex/). Developers can easily convert TeX to PDF, XPS, PNG, JPG, BMP and TIFF formats by integrating the API. Below are few code sample that programmers can enhance and integrate within TeX solutions.
 
 
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert LaTeX to Images" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert TeX to Images or Pdf, Svg, Xps formats." %}}
 
-
-
-To convert LaTeX files to Images, Process is, Initialize [TeXOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions) for creating conversion options for Object LaTeX format. Specify system working directory for the output using [OutputWorkingDirectory](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--). Use the relevant [ImageSaveOptions](https://apireference.aspose.com/tex/java/com.aspose.tex.rendering/ImageSaveOptions) to initialize the options for saving in relevant format. Finally use TeXJob method for LaTeX to image conversion.
-
-
-{{% blocks/products/pf/feature-page-code h3="C# Code for LaTeX to Image Conversion" %}}
-
-{{< gist "aspose-com-gists" "a94cd0f5d4e008d2f9a334004e5a3743" "convert-latex-to-images.java" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{< blocks/products/pf/feature-page-options pairs="latex-to-png latex-to-bmp latex-to-tiff latex-to-jpeg" >}}
-
-{{% blocks/products/pf/feature-page-section  h2="LaTeX to PDF Conversion" %}}
-
-Process of LaTeX to PDF conversion is same as images, except that API provides [PdfSaveOptions](https://apireference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions) for setting specific PDF options. 
-
-
-{{% blocks/products/pf/feature-page-code h3="C# Code for LaTeX to PDF Conversion" %}}
-
-{{< gist "aspose-com-gists" "a94cd0f5d4e008d2f9a334004e5a3743" "latex-to-pdf-conversion.java" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
+To convert TeX files to Images, Pdf, Xps or Svg process next steps. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/java/com.aspose.tex/texoptions). 
+Define the options with specific settings like the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-) 
+ / [InputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-) 
+and image save options such as [BmpSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions), 
+[PngSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions), 
+[TiffSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/TiffSaveOptions),
+[JpegSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)
+ or [PDfSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions), 
+[SvgSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions), 
+[XpsSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsSaveOptions), which is default, not need to set. And finally run TeX to Image or Pdf, Svg, Xps conversion using
+Run method of [TeXJob](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions) for [ImageDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/ImageDevice) or
+[PdfDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfDevice),
+[SvgDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgDevice),
+[XpsDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsDevice).
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert LaTeX to XPS" %}}
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/feature-section >}}
+{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" TeX PDF XPS SVG "JPEG|JPG" PNG TIFF BMP >}}
+// Create conversion options for Object TeX format on Object TeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
 
-Here is the way for converting TeX (LaTeX) to XPS Programmatically via Java. Firstly create [TeXOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions) object to create conversion options for Object LaTeX format. Set system working directory for the output using [OutputWorkingDirectory](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)
-Specify XPS format options using [XpsSaveOptions](https://apireference.aspose.com/tex/java/com.aspose.tex.rendering/XpsSaveOptions) and run TeXJob method for LaTeX to XPS conversion.
+// Specify the file system working directory for the output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-{{% blocks/products/pf/feature-page-code h3="C# Code for Tex to XPS Conversion" %}}
+// Initialize the options for saving in {{output upper}} format.
+// Use relevant image save options
+options.setSaveOptions(new {{output camel}}SaveOptions());
 
-{{< gist "aspose-com-gists" "a94cd0f5d4e008d2f9a334004e5a3743" "convert-latex-to-xps.java" >}}
+// Run TeX to {{output upper}} conversion.
+{{#if_output 'XPS' 'PDF' 'SVG'}}
+new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new {{output camel}}Device(), options).run();
+{{/if_output}}
+{{#if_output 'BMP' 'JPEG' 'PNG' 'TIFF'}}
+new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), options).run();
+{{/if_output}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
+{{< /app/tex/converter >}}
+{{< /blocks/products/pf/agp/feature-section>}}
+{{< /blocks/products/pf/main-wrap-class>}}
 
-{{% /blocks/products/pf/feature-page-section %}}

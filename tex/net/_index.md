@@ -306,7 +306,7 @@ Aspose.TeX for .NET is a flexible and easy-to-use library to typeset TeX and LaT
      Typeset TeX files
     </h2>
     <p>
-     Aspose.TeX for .NET can easily typeset TeX files to get documents in different formats.
+     Aspose.TeX for .NET can easily typeset TeX files to <a href="/tex/net/conversion/">get documents</a> in different formats.
     </p>
     <!--div id="code" class="codeblock">
 
