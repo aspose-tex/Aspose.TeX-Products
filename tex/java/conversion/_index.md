@@ -17,22 +17,21 @@ Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is t
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert TeX to Images or Pdf, Svg, Xps formats." %}}
-
-To convert TeX files to Images, Pdf, Xps or Svg process next steps. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/java/com.aspose.tex/texoptions). 
-Define the options with specific settings like the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-) 
- / [InputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-) 
-and image save options such as [BmpSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions), 
+To convert TeX files to Images, Pdf, Xps or Svg process next steps. 
+1. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/java/com.aspose.tex/texoptions). 
+2. Specify the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-)  / [InputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-) 
+3. Initialize the options for saving using [BmpSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions), 
 [PngSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions), 
 [TiffSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/TiffSaveOptions),
 [JpegSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)
  or [PDfSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions), 
 [SvgSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions), 
-[XpsSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsSaveOptions), which is default, not need to set. And finally run TeX to Image or Pdf, Svg, Xps conversion using
-Run method of [TeXJob](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions) for [ImageDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/ImageDevice) or
+[XpsSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsSaveOptions), which is default, not need to set.
+4. Run conversion using Rum method of [TeXJob](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) for 
+[ImageDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/ImageDevice) or
 [PdfDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfDevice),
 [SvgDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgDevice),
 [XpsDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsDevice).
-
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -60,3 +59,4 @@ new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), optio
 {{< /blocks/products/pf/agp/feature-section>}}
 {{< /blocks/products/pf/main-wrap-class>}}
 
+{{< blocks/products/pf/feature-page-options pairs="tex-to-pdf tex-to-xps tex-to-svg tex-to-png tex-to-bmp tex-to-tiff tex-to-jpeg latex-to-pdf latex-to-xps latex-to-svg latex-to-png latex-to-bmp latex-to-tiff latex-to-jpeg" >}}

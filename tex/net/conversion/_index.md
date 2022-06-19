@@ -17,18 +17,18 @@ Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is t
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert TeX to Images or Pdf, Svg, Xps formats." %}}
-
-To convert TeX files to Images, Pdf, Xps or Svg process next steps. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/net/aspose.tex/texoptions). 
-Define the options with specific settings like the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/outputworkingdirectory) 
- / [InputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/inputworkingdirectory) 
-and image save options such as [BmpSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/bmpsaveoptions), 
+To convert TeX files to Images, Pdf, Xps or Svg process next steps. 
+1. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/net/aspose.tex/texoptions). 
+2. Specify the file system working directory for the output/input using [OutputWorkingDirectory](https://apireference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory) / [InputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/inputworkingdirectory) 
+3. Initialize the options for saving using [BmpSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/bmpsaveoptions), 
 [PngSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/pngsaveoptions), 
 [TiffSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/tiffsaveoptions),
 [JpegSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/jpegsaveoptions/)
  or [PDfSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfsaveoptions), 
 [SvgSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.svg/svgsaveoptions), 
-[XpsSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.xps/xpssaveoptions), which is default, not need to set. And finally run TeX to Image or Pdf, Svg, Xps conversion using
-[Run](https://reference.aspose.com/tex/net/aspose.tex/texjob/run) method of [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob) for [ImageDevice](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/imagedevice) or
+[XpsSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.xps/xpssaveoptions), which is default, not need to set.
+4. Run conversion using [TeXJob](https://apireference.aspose.com/tex/net/aspose.tex/texjob) method for 
+[ImageDevice](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image/imagedevice) or
 [PdfDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfdevice),
 [SvgDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.svg/svgdevice),
 [XpsDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.xps/xpsdevice).
@@ -58,3 +58,4 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< /blocks/products/pf/agp/feature-section>}}
 {{< /blocks/products/pf/main-wrap-class>}}
 
+{{< blocks/products/pf/feature-page-options pairs="tex-to-pdf tex-to-xps tex-to-svg tex-to-png tex-to-bmp tex-to-tiff tex-to-jpeg latex-to-pdf latex-to-xps latex-to-svg latex-to-png latex-to-bmp latex-to-tiff latex-to-jpeg" >}}
