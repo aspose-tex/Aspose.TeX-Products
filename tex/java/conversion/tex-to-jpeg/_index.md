@@ -1,22 +1,22 @@
 ---
-title: Convert LATEX to PNG with Java 
-description: LaTeX to PNG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to PNG.
-url: /java/conversion/latex-to-png/
+title: Convert TEX to JPEG with Java 
+description: TeX to JPEG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert TeX to JPEG.
+url: /java/conversion/tex-to-jpeg/
 family: tex
 platformtag: java
 feature: conversion
-informat: LATEX
-outformat: PNG
-otherformats: BMP TIFF JPEG PDF
+informat: TEX
+outformat: JPEG
+otherformats: BMP PNG TIFF PDF XPS SVG
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert LATEX to PNG via Java" h2="TeX to PNG, BMP,  TIFF,  JPEG, XPS & PDF conversion using On-premise Java library">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TEX to JPEG via Java" h2="TeX to JPEG, PNG, PDF, TIFF, JPEG, & XPS conversion using On-premise Java library">}}
 {{< blocks/products/pf/main-container >}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert LATEX to PNG Using Java" %}}
+{{% blocks/products/pf/agp/content h2="How to Convert TEX to JPEG Using Java" %}}
 
-In order to render LATEX to PNG, we’ll use <a href="https://products.aspose.com/tex/java">Aspose.TeX for Java</a> API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex">Maven</a> and install it within your Maven-based project by adding the following configurations to the pom.xml.
+In order to render TEX to JPEG, we’ll use <a href="https://products.aspose.com/tex/java">Aspose.TeX for Java</a> API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex">Maven</a> and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -46,11 +46,11 @@ In order to render LATEX to PNG, we’ll use <a href="https://products.aspose.co
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="LATEX to PNG Conversion on Java" %}}
-1. Initialize [TeXOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object LaTeX format
+{{% blocks/products/pf/agp/feature-section-col title="TEX to JPEG Conversion on Java" %}}
+1. Initialize [TeXOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object TeX format
 2. In order to set space, or area, where the TeX output will be written, set system working directory for the output using [OutputWorkingDirectory](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)
-3. Initialize the options for saving in PNG format using [PngSaveOptions](https://apireference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions)
-4. Run LaTeX to PNG conversion using [TeXJob](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXJob) method
+3. Initialize the options for saving in JPEG format using [JpegSaveOptions](https://apireference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)
+4. Run TeX to JPEG conversion using [TeXJob](https://apireference.aspose.com/tex/java/com.aspose.tex/TeXJob) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
@@ -63,9 +63,9 @@ Aspose.TeX for Java is supported on all major operating systems. Just make sure 
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" LTX PNG JPEG TIFF BMP PDF XPS SVG >}}
+{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" TEX JPEG PNG TIFF BMP PDF XPS SVG >}}
 // Create conversion options for Object TeX format on Object TeX engine extension.
-TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectTeX());
 
 // Specify the file system working directory for the output.
 options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));

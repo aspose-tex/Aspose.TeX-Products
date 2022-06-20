@@ -304,7 +304,7 @@ Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaT
      Typeset TeX files
     </h2>
     <p>
-     Aspose.TeX for Java can easily typeset TeX files to get documents in different formats.
+     Aspose.TeX for Java can easily typeset TeX files to <a href="/tex/java/conversion/">get documents</a> in different formats.
     </p>
    </div>
   </div>

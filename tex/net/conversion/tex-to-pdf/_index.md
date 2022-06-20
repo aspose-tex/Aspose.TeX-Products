@@ -1,25 +1,25 @@
 ---
-title: Convert LATEX to PNG with .NET 
-description: LaTeX to PNG conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert LaTeX to PNG.
-url: /net/conversion/latex-to-png/
+title: Convert TEX to PDF with .NET 
+description: TeX to PDF conversion functionality. Integrate this on-premise .NET library into your project or use cross-platform applications to convert TeX to PDF.
+url: /net/conversion/tex-to-pdf/
 family: tex
 platformtag: net
 feature: conversion
-informat: LATEX
-outformat: PNG
-otherformats: BMP JPEG TIFF PDF SVG XPS
+informat: TEX
+outformat: PDF
+otherformats: BMP PNG JPEG TIFF SVG XPS
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert LATEX to PNG via C#" h2="Convert TeX files to XPS, PDF & Image formats like BMP on Windows, macOS & Linux">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TEX to PDF via C#" h2="Convert TeX files to XPS, PDF & Image formats like BMP on Windows, macOS & Linux">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="LATEX to PNG Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="TEX to PDF Conversion on .NET" %}}
 1. Initialize [TeXOptions](https://apireference.aspose.com/tex/net/aspose.tex/texoptions)
 2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://apireference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory)
 3. Initialize the options for saving in TIFF format using [BmpSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image)
-4. Run LaTeX to PNG conversion using [TeXJob](https://apireference.aspose.com/tex/net/aspose.tex/texjob) method
+4. Run TeX to PDF conversion using [TeXJob](https://apireference.aspose.com/tex/net/aspose.tex/texjob) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET TeX API" %}}
@@ -32,7 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" LTX PNG BMP JPEG TIFF>}}
+{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" LTX PDF SVG XPS>}}
 TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectTeX);
 options.OutputWorkingDirectory = new OutputFileSystemDirectory(RunExamples.OutputDirectory);
 options.SaveOptions = new {{output camel}}SaveOptions();

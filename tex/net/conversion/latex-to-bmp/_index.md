@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: LATEX
 outformat: BMP
-otherformats: XPS JPEG PDF TIFF
+otherformats: PNG JPEG TIFF PDF SVG XPS
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -28,13 +28,21 @@ Install from command line as ```nuget install Aspose.TeX``` or via Package Manag
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for LATEX to BMP Conversion" gistPath="" %}}
-
-{{< gist "aspose-com-gists" "62ad6f22e48994af877bc847d83573a1" "convert-latex-to-bmp.cs" >}}
-
-{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/feature-section >}}
+{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" LTX BMP PNG JPEG TIFF>}}
+TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectTeX);
+options.OutputWorkingDirectory = new OutputFileSystemDirectory(RunExamples.OutputDirectory);
+options.SaveOptions = new {{output camel}}SaveOptions();
+new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageDevice(), options).Run();
+{{< /app/tex/converter >}}
+{{< /blocks/products/pf/agp/feature-section>}}
+{{< /blocks/products/pf/main-wrap-class>}}
+
 {{< blocks/products/pf/agp/about-file-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+

@@ -41,7 +41,6 @@ In order to render LATEX to BMP, we’ll use <a href="https://products.aspose.co
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -59,13 +58,33 @@ Aspose.TeX for Java is supported on all major operating systems. Just make sure 
 {{% /blocks/products/pf/agp/text %}}
 - J2SE 8.0 (1.8) or above.
 {{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Java Code for LATEX to BMP Conversion" gistPath="" %}}
-
-{{< gist "aspose-com-gists" "a94cd0f5d4e008d2f9a334004e5a3743" "convert-latex-to-bmp.java" >}}
-
-{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/feature-section >}}
+{{< app/tex/converter "C++ code example TeX to Images,XPS,PDF or SVG conversion" LTX BMP JPEG PNG TIFF PDF XPS SVG>}}
+// Create conversion options for Object TeX format on Object TeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
+
+// Specify the file system working directory for the output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
+
+// Initialize the options for saving in {{output upper}} format.
+// Use relevant image save options
+options.setSaveOptions(new {{output camel}}SaveOptions());
+
+// Run TeX to {{output upper}} conversion.
+{{#if_output 'XPS' 'PDF' 'SVG'}}
+new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new {{output camel}}Device(), options).run();
+{{/if_output}}
+{{#if_output 'BMP' 'JPEG' 'PNG' 'TIFF'}}
+new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), options).run();
+{{/if_output}}
+
+{{< /app/tex/converter >}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< /blocks/products/pf/main-wrap-class>}}
+
 {{< blocks/products/pf/agp/about-file-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
