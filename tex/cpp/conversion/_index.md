@@ -10,7 +10,7 @@ description: Convert LaTeX files to PDF, XPS and Images including PNG, JPEG, TIF
 {{% blocks/products/pf/feature-page-summary %}}
 
 
-Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is the [Tex introduction](https://docs.aspose.com/tex/net/what-is-tex/). Developers can easily convert TeX to PDF, XPS, PNG, JPG, BMP and TIFF formats by integrating the API. Below are few code samples that programmers can enhance and integrate within LaTex solutions.
+Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is the [Tex introduction](https://docs.aspose.com/tex/cpp/what-is-tex/). Developers can easily convert TeX to PDF, XPS, PNG, JPG, BMP and TIFF formats by integrating the API. Below are few code samples that programmers can enhance and integrate within LaTex solutions.
 
 
 
@@ -64,4 +64,4 @@ To convert TeX files to Images, Pdf, Xps or Svg process next steps.
 {{< /blocks/products/pf/agp/feature-section>}}
 {{< /blocks/products/pf/main-wrap-class>}}
 
-
+{{< blocks/products/pf/feature-page-options pairs="tex-to-pdf tex-to-xps tex-to-svg tex-to-png tex-to-bmp tex-to-tiff tex-to-jpeg latex-to-pdf latex-to-xps latex-to-svg latex-to-png latex-to-bmp latex-to-tiff latex-to-jpeg" >}}
