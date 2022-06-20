@@ -1,6 +1,7 @@
 ---
-title: Convert TEX to SVG with C++ 
+title: Convert TEX to SVG | C++ 
 description: TeX to SVG conversion functionality. Integrate this on-premise C++ library into your project or use cross-platform applications to convert TeX to SVG.
+keywords: tex to svg api cpp, tex2svg integrate c++
 url: /cpp/conversion/tex-to-svg/
 family: tex
 platformtag: cpp
@@ -11,7 +12,7 @@ otherformats: BMP PNG JPEG TIFF PDF XPS
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TEX to SVG via C#" h2="Convert TeX files to XPS, PDF & Image formats like BMP on Windows, macOS & Linux">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C++ Api Solution to convert TeX to SVG." h2=" Integrate TeX to SVG conversion functionality of On-premise C++ library into your own project.">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -42,6 +43,28 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< /blocks/products/pf/main-wrap-class>}}
 
 {{< blocks/products/pf/agp/about-file-autogen >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -3,6 +3,7 @@ title: C++ TeX Integration and Processing API - Aspose
 weight: 50
 url: /cpp/ 
 description: C++ TeX library to process TeX files within C++ applications. It offers typesetting functionality along with conversion TeX to PDf, SVG, XPS, and other formats.
+keywords: tex conversion api cpp, tex converter c++ integrate
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -10,7 +11,7 @@ description: C++ TeX library to process TeX files within C++ applications. It of
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
