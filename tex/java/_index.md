@@ -2,7 +2,7 @@
 title: Java API to process TeX and LaTeX Docs
 weight: 40
 url: /java/ 
-description: C++ TeX library to process TeX files within C++ applications. It offers typesetting functionality and conversion TeX to PDf, SVG, XPS, and other formats.
+description: Java TeX library to process TeX files within Java applications. It offers typesetting functionality and conversion TeX to PDf, SVG, XPS, and other formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -10,7 +10,7 @@ description: C++ TeX library to process TeX files within C++ applications. It of
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

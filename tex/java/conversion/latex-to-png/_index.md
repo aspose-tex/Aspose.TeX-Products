@@ -1,6 +1,7 @@
 ---
-title: Convert LATEX to PNG with Java 
+title: Convert LaTeX to PNG | Java 
 description: LaTeX to PNG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to PNG.
+keywords: latex to png api java, latex2png integrate
 url: /java/conversion/latex-to-png/
 family: tex
 platformtag: java
@@ -11,7 +12,7 @@ otherformats: BMP TIFF JPEG PDF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert LATEX to PNG via Java" h2="TeX to PNG, BMP,  TIFF,  JPEG, XPS & PDF conversion using On-premise Java library">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java Api Solution to convert LaTeX to PNG." h2=" Integrate LaTeX to PNG conversion functionality of On-premise Java library into your own project.">}}
 {{< blocks/products/pf/main-container >}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert LATEX to PNG Using Java" %}}
@@ -87,6 +88,28 @@ new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), optio
 {{< /blocks/products/pf/main-wrap-class>}}
 
 {{< blocks/products/pf/agp/about-file-autogen >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

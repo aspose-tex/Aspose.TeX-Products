@@ -1,7 +1,8 @@
 ---
-title: C++ TeX (LaTeX) Files Conversion
+title: TeX (LaTeX) Files Conversion | C++
 url: /cpp/conversion/
-description: Convert LaTeX files to PDF, XPS and Images including PNG, JPEG, TIFF, BMP with few lines of C++ code.
+keywords: tex converter cpp api, tex converter c++ api
+description: TeX(LaTeX) conversion C++ API solution. Convert LaTeX files to PDF, XPS and Images including PNG, JPEG, TIFF, BMP with few lines of C++ code.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
