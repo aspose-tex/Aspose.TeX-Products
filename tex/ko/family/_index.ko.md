@@ -30,7 +30,7 @@ TeX 파일 조판 및 변환 기능을 C++ 응용 프로그램에 통합합니�
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ TeX 파일 조판 및 변환 기능을 C++ 응용 프로그램에 통합합니�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.TeX 제품군을 선택해야 하는 이유" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

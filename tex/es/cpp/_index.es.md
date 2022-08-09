@@ -325,7 +325,7 @@ Aspose.TeX para C++ es una biblioteca flexible y fácil de usar para componer ar
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
-{{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Referencias de API" href="https://reference.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -336,8 +336,8 @@ Aspose.TeX para C++ es una biblioteca flexible y fácil de usar para componer ar
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.TeX para C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historias de éxito" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Historias de éxito" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

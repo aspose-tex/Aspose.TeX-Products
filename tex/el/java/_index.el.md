@@ -319,7 +319,7 @@ description: Βιβλιοθήκη Java TeX για επεξεργασία αρχ�
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://apireference.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://reference.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -330,8 +330,8 @@ description: Βιβλιοθήκη Java TeX για επεξεργασία αρχ�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.TeX για Java;" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

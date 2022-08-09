@@ -19,7 +19,7 @@ Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is t
 
 {{% blocks/products/pf/feature-page-section  h2="Convert TeX to Images or Pdf, Svg, Xps formats." %}}
 To convert TeX files to Images, Pdf, Xps or Svg process next steps. 
-1. Create instance of the [TeXOptions class](https://apireference.aspose.com/tex/java/com.aspose.tex/texoptions). 
+1. Create instance of the [TeXOptions class](https://reference.aspose.com/tex/java/com.aspose.tex/texoptions). 
 2. Specify the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-)  / [InputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-) 
 3. Initialize the options for saving using [BmpSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions), 
 [PngSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions), 

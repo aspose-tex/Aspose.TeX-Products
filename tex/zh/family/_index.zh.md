@@ -30,7 +30,7 @@ description: 用于 .NET、Java 和 C++ 的 TeX 本机 API。这是一个易于�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API 参考" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ description: 用于 .NET、Java 和 C++ 的 TeX 本机 API。这是一个易于�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.TeX 产品系列？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客户名单" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

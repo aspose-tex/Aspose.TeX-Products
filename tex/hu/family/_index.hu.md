@@ -30,7 +30,7 @@ Integrálja a TeX fájlszedési és -konverziós funkciókat C++ alkalmazásokba
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ Integrálja a TeX fájlszedési és -konverziós funkciókat C++ alkalmazásokba
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.TeX termékcsalád?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

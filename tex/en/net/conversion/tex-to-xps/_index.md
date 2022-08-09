@@ -17,10 +17,10 @@ otherformats: BMP PNG JPEG TIFF SVG PDF
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="TEX to XPS Conversion on .NET" %}}
-1. Initialize [TeXOptions](https://apireference.aspose.com/tex/net/aspose.tex/texoptions)
-2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://apireference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory)
-3. Initialize the options for saving in TIFF format using [XpsSaveOptions](https://apireference.aspose.com/tex/net/aspose.tex.presentation.image)
-4. Run TeX to XPS conversion using [TeXJob](https://apireference.aspose.com/tex/net/aspose.tex/texjob) method
+1. Initialize [TeXOptions](https://reference.aspose.com/tex/net/aspose.tex/texoptions)
+2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory)
+3. Initialize the options for saving in TIFF format using [XpsSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image)
+4. Run TeX to XPS conversion using [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET TeX API" %}}
@@ -48,7 +48,7 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -59,8 +59,8 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

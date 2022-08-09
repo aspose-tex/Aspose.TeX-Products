@@ -319,7 +319,7 @@ Aspose.TeX pour Java est une bibliothèque flexible et facile à utiliser pour c
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -330,8 +330,8 @@ Aspose.TeX pour Java est une bibliothèque flexible et facile à utiliser pour c
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.TeX pour Java ?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Liste des clients" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Réussites" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

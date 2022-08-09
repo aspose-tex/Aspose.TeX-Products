@@ -30,7 +30,7 @@ Integre a funcionalidade de composição e conversão de arquivos TeX em aplicat
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ Integre a funcionalidade de composição e conversão de arquivos TeX em aplicat
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que a família de produtos Aspose.TeX?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Histórias de sucesso" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Histórias de sucesso" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

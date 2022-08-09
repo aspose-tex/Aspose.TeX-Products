@@ -395,7 +395,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/tex/net" >}}
 {{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-tex/Aspose.TeX-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.com/tex/net" >}}
+{{< blocks/products/pf/slr-element name="Referencias de API" href="https://reference.aspose.com/tex/net/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -406,8 +406,8 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.TeX para .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historias de éxito" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Historias de éxito" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
