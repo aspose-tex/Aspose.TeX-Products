@@ -30,7 +30,7 @@ description: Нативные API TeX для .NET, Java и C++. Это прос�
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ description: Нативные API TeX для .NET, Java и C++. Это прос�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему семейство продуктов Aspose.TeX?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Список клиентов" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Истории успеха" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

@@ -30,7 +30,7 @@ description: واجهات برمجة تطبيقات TeX الأصلية لـ .NET
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ description: واجهات برمجة تطبيقات TeX الأصلية لـ .NET
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا عائلة منتجات Aspose.TeX؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

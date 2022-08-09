@@ -325,7 +325,7 @@ Aspose.TeX for C++は、TeXおよびLaTeXファイルをタイプセットする
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -336,8 +336,8 @@ Aspose.TeX for C++は、TeXおよびLaTeXファイルをタイプセットする
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="なぜAspose.TeXforC++？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

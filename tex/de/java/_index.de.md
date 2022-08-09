@@ -319,7 +319,7 @@ Aspose.TeX für Java ist eine flexible und benutzerfreundliche Bibliothek zum Se
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="API-Referenzen" href="https://reference.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -330,8 +330,8 @@ Aspose.TeX für Java ist eine flexible und benutzerfreundliche Bibliothek zum Se
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.TeX für Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundenliste" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

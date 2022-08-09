@@ -29,8 +29,8 @@ To convert TeX files to Images, Pdf, Xps or Svg process next steps.
  or [PdfSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.pdf.pdf_save_options), 
 [SvgSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.svg.svg_save_options), 
 [XpsSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.xps.xps_save_options), which is default, not need to set.
-4. Run conversion using Run method of [TeXJob](https://apireference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job) for 
-[ImageDevice](https://apireference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.image_device) or
+4. Run conversion using Run method of [TeXJob](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job) for 
+[ImageDevice](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.image_device) or
 [PdfDevice](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.pdf.pdf_device),
 [SvgDevice](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.svg.svg_device),
 [XpsDevice](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.xps.xps_device).

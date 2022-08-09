@@ -30,7 +30,7 @@ Integrera TeX-filtypsättning och konverteringsfunktioner i C++-applikationer.
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -41,8 +41,8 @@ Integrera TeX-filtypsättning och konverteringsfunktioner i C++-applikationer.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.TeX produktfamilj?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

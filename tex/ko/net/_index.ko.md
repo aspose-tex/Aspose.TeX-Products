@@ -395,7 +395,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/tex/net" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-tex/Aspose.TeX-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/tex/net" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/tex/net/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -406,8 +406,8 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 .NET용 Aspose.TeX인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
