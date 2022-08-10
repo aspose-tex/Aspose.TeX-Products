@@ -30,7 +30,7 @@ Tích hợp chức năng sắp xếp và chuyển đổi tệp TeX vào các ứ
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

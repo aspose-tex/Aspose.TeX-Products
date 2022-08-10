@@ -30,7 +30,7 @@ Integre a funcionalidade de composição e conversão de arquivos TeX em aplicat
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

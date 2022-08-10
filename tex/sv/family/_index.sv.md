@@ -30,7 +30,7 @@ Integrera TeX-filtypsättning och konverteringsfunktioner i C++-applikationer.
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

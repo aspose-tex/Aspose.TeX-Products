@@ -19,7 +19,7 @@ otherformats: BMP PNG JPEG TIFF SVG PDF
 {{% blocks/products/pf/agp/feature-section-col title="LATEX to XPS Conversion on C++" %}}
 1. Initialize [TeXOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options)
 2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63)
-3. Initialize the options for saving in XPS format using [XpsSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.tex.presentation.xps.xps_save_options)
+3. Initialize the options for saving in XPS format using [XpsSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.xps.xps_save_options)
 4. Run LaTeX to XPS conversion using [TeXJob](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

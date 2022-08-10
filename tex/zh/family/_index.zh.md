@@ -30,7 +30,7 @@ description: 用于 .NET、Java 和 C++ 的 TeX 本机 API。这是一个易于�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API 参考" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

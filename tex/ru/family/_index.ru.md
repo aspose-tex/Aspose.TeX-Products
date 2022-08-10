@@ -30,7 +30,7 @@ description: Нативные API TeX для .NET, Java и C++. Это прос�
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

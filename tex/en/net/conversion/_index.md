@@ -19,20 +19,20 @@ Aspose.TeX is an API to the Object TeX system, for detail of Tex file, here is t
 
 {{% blocks/products/pf/feature-page-section  h2="Convert TeX to Images or Pdf, Svg, Xps formats." %}}
 To convert TeX files to Images, Pdf, Xps or Svg process next steps. 
-1. Create instance of the [TeXOptions class](https://reference.aspose.com/tex/net/aspose.tex/texoptions). 
-2. Specify the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory) / [InputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/inputworkingdirectory) 
-3. Initialize the options for saving using [BmpSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/bmpsaveoptions), 
-[PngSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/pngsaveoptions), 
-[TiffSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/tiffsaveoptions),
+1. Create instance of the [TeXOptions class](https://reference.aspose.com/tex/net/aspose.tex/texoptions/). 
+2. Specify the file system working directory for the output/input using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/outputworkingdirectory/) / [InputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/inputworkingdirectory/) 
+3. Initialize the options for saving using [BmpSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/bmpsaveoptions/), 
+[PngSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/pngsaveoptions/), 
+[TiffSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/tiffsaveoptions/),
 [JpegSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/jpegsaveoptions/)
- or [PDfSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfsaveoptions), 
-[SvgSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.svg/svgsaveoptions), 
-[XpsSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.xps/xpssaveoptions), which is default, not need to set.
-4. Run conversion using [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob) method for 
-[ImageDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/imagedevice) or
-[PdfDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfdevice),
-[SvgDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.svg/svgdevice),
-[XpsDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.xps/xpsdevice).
+ or [PDfSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfsaveoptions/), 
+[SvgSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.svg/svgsaveoptions/), 
+[XpsSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.xps/xpssaveoptions/), which is default, not need to set.
+4. Run conversion using [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob/) method for 
+[ImageDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/imagedevice/) or
+[PdfDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.pdf/pdfdevice/),
+[SvgDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.svg/svgdevice/),
+[XpsDevice](https://reference.aspose.com/tex/net/aspose.tex.presentation.xps/xpsdevice/).
 
 {{% /blocks/products/pf/feature-page-section %}}
 

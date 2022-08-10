@@ -30,7 +30,7 @@ TeX dosya dizgi ve dönüştürme işlevselliğini C++ uygulamalarına entegre e
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

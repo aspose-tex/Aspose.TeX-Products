@@ -30,7 +30,7 @@ Integrasikan pengaturan huruf dan fungsionalitas konversi file TeX ke dalam apli
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-tex" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/tex" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -17,10 +17,10 @@ otherformats: BMP PNG JPEG PDF SVG XPS
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="TEX to TIFF Conversion on .NET" %}}
-1. Initialize [TeXOptions](https://reference.aspose.com/tex/net/aspose.tex/texoptions)
-2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/properties/outputworkingdirectory)
-3. Initialize the options for saving in TIFF format using [TiffSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image)
-4. Run TeX to TIFF conversion using [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob) method
+1. Initialize [TeXOptions](https://reference.aspose.com/tex/net/aspose.tex/texoptions/)
+2. Specify the file system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/net/aspose.tex/texoptions/outputworkingdirectory/)
+3. Initialize the options for saving in TIFF format using [TiffSaveOptions](https://reference.aspose.com/tex/net/aspose.tex.presentation.image/)
+4. Run TeX to TIFF conversion using [TeXJob](https://reference.aspose.com/tex/net/aspose.tex/texjob/) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET TeX API" %}}
