@@ -24,7 +24,7 @@ name4: Ghi chú phát hành
 
 {{<section why>}}
 ---
-tabTitlecpp: Tại sao sử dụng Aspose.TeX cho C ++?
+tabTitlecpp: Tại sao sử dụng Aspose.TeX cho C++?
 tabTitlejava: Tại sao sử dụng Aspose.TeX cho Java?
 tabTitlenet: Tại sao sử dụng Aspose.TeX cho .NET?
 name1: Danh sách khách hàng

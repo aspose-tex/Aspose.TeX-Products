@@ -24,7 +24,7 @@ name4: ملاحظات الإصدار
 
 {{<section why>}}
 ---
-tabTitlecpp: لماذا Aspose.TeX لـ C ++؟
+tabTitlecpp: لماذا Aspose.TeX لـ C++؟
 tabTitlejava: لماذا Aspose.TeX لجافا؟
 tabTitlenet: لماذا Aspose.TeX لـ .NET؟
 name1: قائمة العملاء

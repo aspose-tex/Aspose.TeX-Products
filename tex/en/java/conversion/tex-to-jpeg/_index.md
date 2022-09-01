@@ -34,10 +34,10 @@ p5: "You can download its latest version directly from [Maven](https://repositor
 title: "Steps to TeX to JPEG Conversion on Java"
 h3: "This code sample explains TEX to JPEG Java Conversion"
 item1: "Aspose.TeX makes it easy for the developers to transform TEX files to JPEG in just a few lines of code."
-item2: "Initialize [TeXOptions](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object TeX format."
-item3: "In order to set space, or area, where the TeX output will be written, set the system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
-item4: "Initialize the options for saving in JPEG format using [JpegSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)."
-item5: "Run TeX to JPEG conversion using [TeXJob](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) Method."
+item2: "Initialize [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object TeX format."
+item3: "In order to set space, or area, where the TeX output will be written, set the system working directory for the output using [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item4: "Initialize the options for saving in JPEG format using [*JpegSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)."
+item5: "Run TeX to JPEG conversion using [*TeXJob()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) Method."
 ---
 
 {{<section feature2>}}

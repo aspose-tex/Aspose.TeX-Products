@@ -24,7 +24,7 @@ name4: บันทึกประจำรุ่น
 
 {{<section why>}}
 ---
-tabTitlecpp: ทำไมต้อง Aspose.TeX สำหรับ C ++
+tabTitlecpp: ทำไมต้อง Aspose.TeX สำหรับ C++
 tabTitlejava: ทำไมต้อง Aspose.TeX สำหรับ Java
 tabTitlenet: ทำไมต้อง Aspose.TeX สำหรับ .NET?
 name1: รายชื่อลูกค้า

@@ -34,17 +34,17 @@ p5: "You can download its latest version directly, just open NuGet package manag
 title: "Steps to Convert LATEX to TIFF using C++"
 h3: "This code sample explains LATEX to TIFF C++ Conversion"
 item1: "Aspose.TeX makes it easy for the developers to transform LATEX files to TIFF in just a few lines of code."
-item2: "Initialize [TeXOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options)."
-item3: "Specify the file system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63)"
-item4: "Initialize the options for saving in TIFF format using [TiffSaveOptions](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.tiff_save_options)"
-item5: "Run LaTeX to TIFF conversion using [TeXJob](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job) Method"
+item2: "Initialize [*TeXOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options)."
+item3: "Specify the file system working directory for the output using [*OutputWorkingDirectory*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63)"
+item4: "Initialize the options for saving in TIFF format using [*TiffSaveOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.tiff_save_options)"
+item5: "Run LaTeX to TIFF conversion using [*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job) Method."
 ---
 
 {{<section feature2>}}
 ---
 title: Get Started with C++ TeX API
-item1: "Install from command line as ```nuget install Aspose.TeX.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.TeX.Cpp```"
-item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/cpp)..
+item1: "Install from command line as ```nuget install Aspose.TeX.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.TeX.Cpp```."
+item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

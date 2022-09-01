@@ -51,9 +51,9 @@ C++ On Premise API لتنضيد TeX وتحويل الملفات.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- لقد استخدمنا Aspose منذ بعض الوقت ، ولم نواجه خطأً واحدًا مرتبطًا بـ Aspose. .
+ لقد استخدمنا Aspose منذ بعض الوقت و ولم نواجه خطأً واحدًا مرتبطًا بـ Aspose. .
  <em>
-  جاك جوردن | بيكور ، هولندا
+  جاك جوردن | بيكور و هولندا
  </em>
 </p>
 
@@ -63,7 +63,7 @@ C++ On Premise API لتنضيد TeX وتحويل الملفات.
 <p class="second">
  Aspose.Total يعمل بشكل رائع عندما يكون لدينا ملفات ووثائق كبيرة للعمل عليها.
  <em>
-  MiniTool® Software Ltd. ، كندا
+  MiniTool® Software Ltd. و كندا
  </em>
 </p>
 

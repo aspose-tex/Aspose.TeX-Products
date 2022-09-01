@@ -34,10 +34,10 @@ p5: "You can download its latest version directly from [Maven](https://repositor
 title: "Steps to LATEX to SVG Conversion on Java"
 h3: "This code sample explains LATEX to SVG Java Conversion"
 item1: "Aspose.TeX makes it easy for the developers to transform LATEX files to SVG in just a few lines of code."
-item2: "Initialize [TeXOptions](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object LaTeX format."
-item3: "In order to set space, or area, where the TeX output will be written, set the system working directory for the output using [OutputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
-item4: "Initialize the options for saving in SVG format using [SvgSaveOptions](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions)."
-item5: "Run LaTeX to SVG conversion using [TeXJob](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) Method."
+item2: "Initialize [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) to create conversion options for Object LaTeX format."
+item3: "In order to set space, or area, where the TeX output will be written, set the system working directory for the output using [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item4: "Initialize the options for saving in SVG format using [*SvgSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions)."
+item5: "Run LaTeX to SVG conversion using [*TeXJob()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) Method."
 ---
 
 {{<section feature2>}}
