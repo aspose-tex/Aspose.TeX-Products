@@ -4,7 +4,7 @@ title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
 family: tex
-platformtag: cpp
+platformtag: net
 feature: conversion
 ---
 
@@ -12,9 +12,9 @@ feature: conversion
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/" installationsDocsLink="https://docs.aspose.com/tex/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/" installationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/net/" >}}
 
 {{% blocks/products/pf/agp/content %}}
 {{i18n.overview.p1}}
@@ -31,39 +31,34 @@ feature: conversion
 2. {{i18n.feature1.item3}}
 3. {{i18n.feature1.item4}}
 4. {{i18n.feature1.item5}}
-5. {{i18n.feature1.item6}}
 
-<p>{{i18n.feature1.item7}}</p>
+<p>{{i18n.feature1.item6}}</p>
 
+-  {{i18n.feature1.item7}}
 -  {{i18n.feature1.item8}}
 -  {{i18n.feature1.item9}}
 -  {{i18n.feature1.item10}}
--  {{i18n.feature1.item11}}
+
 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{< app/tex/converter "{{i18n.feature1.h3}}" TeX PDF XPS SVG "JPEG|JPG" PNG TIFF BMP >}}
-    // Create typesetting options for default ObjectTeX format on ObjectTeX engine extension.
-    System::SharedPtr<TeXOptions> options = TeXOptions::ConsoleAppOptions(TeXConfig::ObjectTeX());
+    // Create conversion options for Object TeX format on Object TeX engine extension.
+    TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectTeX);
 
-    // Specify a file system working directory for input and output.
-    options->set_InputWorkingDirectory(System::MakeObject<InputFileSystemDirectory>(RunExamples::InputDirectory));
-    options->set_OutputWorkingDirectory(System::MakeObject<OutputFileSystemDirectory>(RunExamples::OutputDirectory));
+    // Specify the file system working directory for the output.
+    options.OutputWorkingDirectory = new OutputFileSystemDirectory(RunExamples.OutputDirectory);
 
-    // Initialize the options for saving in {{output upper}} format. 
-    // Similary use relevant Image options for other image formats
-    options->set_SaveOptions(System::MakeObject<{{output camel}}SaveOptions>());
+    // Initialize the options for saving in {{output upper}} format.
+    options.SaveOptions = new {{output camel}}SaveOptions();
 
-    // Specify memory stream as output terminal, if you don't terminal output to be written to console.
-    //options->set_TerminalOut(System::MakeObject<OutputMemoryTerminal>());
-
-    // Run typesetting.
+    // Run TeX to {{output upper}} conversion.
 {{#if_output 'XPS' 'PDF' 'SVG'}}
-    System::MakeObject<Aspose::TeX::TeXJob>(u"{{inputFile}}", System::MakeObject<{{output camel}}Device>(), options)->Run();
+    new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new {{output camel}}Device(), options).Run();
 {{/if_output}}
 {{#if_output 'BMP' 'JPEG' 'PNG' 'TIFF'}}
-    System::MakeObject<Aspose::TeX::TeXJob>(u"{{inputFile}}", System::MakeObject<ImageDevice>(), options)->Run();
+    new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageDevice(), options).Run();
 {{/if_output}}
 {{< /app/tex/converter >}}
 {{< /blocks/products/pf/agp/feature-section>}}
@@ -74,26 +69,26 @@ feature: conversion
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name1">}}" href="https://docs.aspose.com/tex/cpp/" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name1">}}" href="https://docs.aspose.com/tex/net/" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name2">}}" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
-{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name3">}}" href="https://reference.aspose.com/tex/cpp/" >}}
+{{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.name3">}}" href="https://reference.aspose.com/tex/net/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="support.tabTitle">}}" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name1">}}" href="https://forum.aspose.com/c/tex/47" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name2">}}" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="support.name3">}}" href="https://blog.aspose.com/categories/aspose.tex-product-family/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/tex/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/tex/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="why.tabTitlecpp">}}" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="why.tabTitlenet">}}" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="why.name1">}}" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="{{<import path="/{{lang}}/partials/_content.md" section="why.name2">}}" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/tex/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/tex/cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/tex/net/" pricingInformationLink="https://purchase.aspose.com/pricing/tex/net" >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class>}} 

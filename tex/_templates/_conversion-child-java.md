@@ -4,7 +4,7 @@ title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
 family: page
-platformtag: cpp
+platformtag: java
 feature: conversion
 informat: {{i18n.informat}}
 outformat: {{i18n.outformat}}
@@ -14,9 +14,9 @@ otherformats: {{i18n.otherformats}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/" installationsDocsLink="https://docs.aspose.com/tex/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/" installationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/java/" >}}
 
 {{% blocks/products/pf/agp/content h2="{{i18n.overview.title}}" %}}
 
@@ -24,11 +24,32 @@ otherformats: {{i18n.otherformats}}
 <p>{{i18n.overview.p2}}</p>
 <p>{{i18n.overview.p3}}</p>
 
--  <p>{{i18n.overview.p4}}</p>
--  <p>{{i18n.overview.p5}}</p>
+- {{i18n.overview.p4}}
+- {{i18n.overview.p5}}
+{{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
+```cs
+    <repository>
+        <id>snapshots</id>
+        <name>repo</name>
+        <url>http://repository.aspose.com/repo/</url>
+    </repository>
+```
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
+
+```cs
+    <dependency>
+        <groupId>com.aspose</groupId>
+        <artifactId>aspose-tex</artifactId>
+        <version>21.4</version>
+    </dependency>
+```
+
+{{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
-
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -47,7 +68,8 @@ otherformats: {{i18n.otherformats}}
 
 {{% blocks/products/pf/agp/feature-section-col title="{{i18n.feature2.title}}" %}}
 
--  {{i18n.feature2.item1}}
+<p>{{i18n.feature2.item1}}<p>
+
 -  {{i18n.feature2.item2}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

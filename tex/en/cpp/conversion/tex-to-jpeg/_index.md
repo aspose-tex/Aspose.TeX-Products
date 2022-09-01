@@ -22,7 +22,7 @@ h2: Convert TEX to JPEG via API Solution for C++.
 {{<section overview>}}
 ---
 title: "How to Convert TEX to JPEG Using C++"
-p1: "Aspose.TeX for TEX to JPEG converter transforms Encapsulated PostScript (EPS) file to JPEG image with using of any language supported by C++."
+p1: "Aspose.TeX for TEX to JPEG converter transforms TeX file to JPEG image with using of any language supported by C++."
 p2: "The API you see here can be used to create your own cross-platform application or be integrated into your C++ project."
 p3: "In order to convert TEX to JPEG:"
 p4: "Aspose.TeX for C++ API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform."

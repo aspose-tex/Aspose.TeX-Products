@@ -22,7 +22,7 @@ h2: Convert LaTeX to XPS  via API Solution for C++.
 {{<section overview>}}
 ---
 title: "How to Convert LaTeX to XPS  Using C++"
-p1: "Aspose.TeX for LaTeX to XPS converter transforms Encapsulated PostScript (EPS) file to XPS  image with using of any language supported by C++."
+p1: "Aspose.TeX for LaTeX to XPS converter transforms LaTeX file to XPS  image with using of any language supported by C++."
 p2: "The API you see here can be used to create your own cross-platform application or be integrated into your C++ project."
 p3: "In order to convert LaTeX to XPS :"
 p4: "Aspose.TeX for C++ API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform."

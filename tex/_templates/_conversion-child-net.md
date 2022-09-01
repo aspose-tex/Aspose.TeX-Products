@@ -4,7 +4,7 @@ title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
 family: page
-platformtag: cpp
+platformtag: net
 feature: conversion
 informat: {{i18n.informat}}
 outformat: {{i18n.outformat}}
@@ -14,9 +14,9 @@ otherformats: {{i18n.otherformats}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/" installationsDocsLink="https://docs.aspose.com/tex/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/" installationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/net/" >}}
 
 {{% blocks/products/pf/agp/content h2="{{i18n.overview.title}}" %}}
 

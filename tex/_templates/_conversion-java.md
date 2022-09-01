@@ -16,11 +16,11 @@ feature: conversion
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="https://products.aspose.app/tex/applications" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/" installationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/tex/java/" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{% blocks/products/pf/agp/content %}}
 {{i18n.overview.p1}}
 
 {{i18n.overview.p2}}
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="{{i18n.feature1.title}}" %}}
@@ -43,22 +43,22 @@ feature: conversion
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{< app/tex/converter "{{i18n.feature1.h3}}" TeX PDF XPS SVG "JPEG|JPG" PNG TIFF BMP >}}
-// Create conversion options for Object TeX format on Object TeX engine extension.
-TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
+    // Create conversion options for Object TeX format on Object TeX engine extension.
+    TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectLaTeX());
 
-// Specify the file system working directory for the output.
-options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
+    // Specify the file system working directory for the output.
+    options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-// Initialize the options for saving in {{output upper}} format.
-// Use relevant image save options
-options.setSaveOptions(new {{output camel}}SaveOptions());
+    // Initialize the options for saving in {{output upper}} format.
+    // Use relevant image save options
+    options.setSaveOptions(new {{output camel}}SaveOptions());
 
-// Run TeX to {{output upper}} conversion.
+    // Run TeX to {{output upper}} conversion.
 {{#if_output 'XPS' 'PDF' 'SVG'}}
-new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new {{output camel}}Device(), options).run();
+    new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new {{output camel}}Device(), options).run();
 {{/if_output}}
 {{#if_output 'BMP' 'JPEG' 'PNG' 'TIFF'}}
-new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), options).run();
+    new TeXJob(Utils.getInputDirectory() + "{{inputFile}}", new ImageDevice(), options).run();
 {{/if_output}}
 
 {{< /app/tex/converter >}}
