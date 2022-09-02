@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: LaTeX إلى PNG Converdion API | Java
 description: LaTeX إلى وظائف تحويل PNG. ادمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى PNG.
-keywords: اللاتكس إلى بابوا نيو غينيا api java ، latex2png دمج
+keywords: اللاتكس إلى بابوا نيو غينيا api java و latex2png دمج
 url: /java/conversion/latex-to-png/
 family: tex
 platformtag: java
@@ -35,7 +35,7 @@ title: "خطوات تحويل LATEX إلى PNG على Java"
 h3: "يوضح نموذج التعليمات البرمجية هذا تحويل LATEX إلى PNG Java"
 item1: "يُسهل Aspose.TeX على المطورين تحويل ملفات LATEX إلى PNG في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق كائن LaTeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "قم بتهيئة خيارات الحفظ بتنسيق PNG باستخدام [*PngSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions)."
 item5: "قم بتشغيل تحويل LaTeX إلى PNG باستخدام أسلوب [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: من TeX إلى واجهة برمجة تطبيقات JPEG Converdion | Java
 description: وظيفة تحويل TeX إلى JPEG. قم بدمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل TeX إلى JPEG.
-keywords: tex إلى Jpeg api jpeg ، دمج tex2jpeg
+keywords: tex إلى Jpeg api jpeg و دمج tex2jpeg
 url: /java/conversion/tex-to-jpeg/
 family: tex
 platformtag: java
@@ -35,7 +35,7 @@ title: "خطوات تحويل TeX إلى JPEG على Java"
 h3: "يوضح نموذج التعليمات البرمجية هذا تحويل TEX إلى JPEG Java"
 item1: "يسهل Aspose.TeX على المطورين تحويل ملفات TEX إلى JPEG في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق Object TeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "ابدأ خيارات الحفظ بتنسيق JPEG باستخدام [*JpegSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions)."
 item5: "قم بتشغيل تحويل TeX إلى JPEG باستخدام أسلوب [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

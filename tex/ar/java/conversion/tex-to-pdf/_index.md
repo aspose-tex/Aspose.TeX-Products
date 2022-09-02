@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: من TeX إلى PDF Converdion API | Java
 description: وظيفة تحويل TeX إلى PDF. قم بدمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات المشتركة بين الأنظمة الأساسية لتحويل TeX إلى PDF.
-keywords: tex إلى pdf api jpeg ، تكامل tex2pdf
+keywords: tex إلى pdf api jpeg و تكامل tex2pdf
 url: /java/conversion/tex-to-pdf/
 family: tex
 platformtag: java
@@ -36,7 +36,7 @@ title: "خطوات تحويل TeX إلى PDF على Java"
 h3: "يوضح نموذج التعليمات البرمجية هذا تحويل TEX إلى PDF Java"
 item1: "يسهل Aspose.TeX على المطورين تحويل ملفات TEX إلى PDF في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق Object TeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "ابدأ خيارات الحفظ بتنسيق PDF باستخدام [*PdfSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions)."
 item5: "قم بتشغيل تحويل TeX إلى PDF باستخدام طريقة [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

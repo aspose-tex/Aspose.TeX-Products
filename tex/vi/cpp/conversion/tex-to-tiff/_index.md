@@ -43,7 +43,7 @@ item5: "Chạy chuyển đổi TeX sang TIFF bằng phương pháp [*TeXJob()*](
 {{<section feature2>}}
 ---
 title: Bắt đầu với C ++ TeX API
-item1: "Cài đặt từ dòng lệnh với tên `` nuget install Aspose.TeX.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.TeX.Cpp ''."
+item1: "Cài đặt từ dòng lệnh với tên ```nuget install Aspose.TeX.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.TeX.Cpp ''."
 item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/tex/cpp).
 ---
 

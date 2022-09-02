@@ -1,10 +1,10 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-java.md
-title: टीएक्स (लाTEX) फ़ाइलें रूपांतरण | Java
+title: "टीएक्स (LATEX) फ़ाइलें रूपांतरण | Java"
 url: /java/conversion/
 description: "टीएक्स (लाTEX) रूपांतरण जावा एपीआई समाधान। जावा कोड की कुछ पंक्तियों के साथ PNG, JPEG, TIFF, BMP सहित PDF, XPS और छवियों में लाTEX फाइलों को "
-keywords: TEX रूपांतरण एपीआई जावा, TEX कनवर्टर जावा एकीकृत
+keywords: "TEX रूपांतरण एपीआई जावा, TEX कनवर्टर जावा एकीकृत"
 family: tex
 platformtag: cpp
 feature: conversion
@@ -28,13 +28,13 @@ title: "जावा के साथ लाTEX को इमेज, XPS, PDF, S
 h3: "छवियों, XPS, PDF या SVG रूपांतरण के लिए जावा कोड उदाहरण टीएक्स।"
 item1: "एपीआई आउटपुट स्वरूपों के रूप में BMP, JPEG, PDF, SVG, TIFF, XPS और PNG का समर्थन करता है। टीएक्स फाइलों को इमेज, PDF, XPS या SVG प्रक्रिया में बदलने के लिए अगले चरण:"
 item2: "[TeXOptions वर्ग](https://reference.aspose.com/tex/java/com.aspose.tex/texoptions) का उदाहरण बनाएं।"
-item3: "[*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-)/[InputWorkingDirectory](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-)का उपयोग करके आउटपुट/इनपुट के लिए फ़ाइल सिस्टम कार्यशील निर्देशिका निर्दिष्ट करें।"
+item3: "[*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setOutputWorkingDirectory-com.aspose.tex.IOutputWorkingDirectory-)/[*InputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#setInputWorkingDirectory-com.aspose.tex.IInputWorkingDirectory-)का उपयोग करके आउटपुट/इनपुट के लिए फ़ाइल सिस्टम कार्यशील निर्देशिका निर्दिष्ट करें।"
 item4: "का उपयोग करके बचत के विकल्पों को प्रारंभ करें [*BmpSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions), [*PngSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PngSaveOptions), [*TiffSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/TiffSaveOptions) [*JpegSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/JpegSaveOptions) या [*PdfSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfSaveOptions), [*SvgSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions), [*XpsSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsSaveOptions), जो कि डिफ़ॉल्ट है, सेट करने की आवश्यकता नहीं है।"
 item5: "[ImageDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/ImageDevice) या [PdfDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/PdfDevice), [SvgDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgDevice), [XpsDevice](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/XpsDevice) के लिए [*TeXJob()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob) की रम विधि का उपयोग करके रूपांतरण चलाएँ।"
 item6: "जावा के लिए Aspose.TeX जावा का समर्थन करने वाले किसी भी विकास वातावरण में अच्छी तरह से काम करता है, लेकिन अगली आवश्यकताओं की अत्यधिक सलाह दी जाती है:"
-item7: माइक्रोसॉफ्ट विंडोज डेस्कटॉप (7, 8, 10)।
-item8: लिनक्स सिस्टम (उबंटू-16.04 या बाद का)।
+item7: "माइक्रोसॉफ्ट विंडोज डेस्कटॉप (7, 8, 10)।"
+item8: "लिनक्स सिस्टम (उबंटू-16.04 या बाद का)।"
 item9: Mac OS X।
-item10: J2SE 8.0 (1.8) या इसके बाद के संस्करण (उदाहरण के लिए जावा 10) जावा संस्करण।
+item10: "J2SE 8.0 (1.8) या इसके बाद के संस्करण (उदाहरण के लिए जावा 10) जावा संस्करण।"
 ---
 

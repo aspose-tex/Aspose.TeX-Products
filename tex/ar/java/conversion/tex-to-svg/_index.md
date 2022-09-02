@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: TeX إلى SVG Converdion API | Java
 description: TeX إلى وظيفة تحويل SVG. قم بدمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل TeX إلى SVG.
-keywords: tex إلى svg api java ، دمج tex2svg
+keywords: tex إلى svg api java و دمج tex2svg
 url: /java/conversion/tex-to-svg/
 family: tex
 platformtag: java
@@ -35,7 +35,7 @@ title: "خطوات تحويل TeX إلى SVG على Java"
 h3: "يوضح نموذج التعليمات البرمجية هذا TEX to SVG Java Conversion"
 item1: "يُسهل Aspose.TeX على المطورين تحويل ملفات TEX إلى SVG في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق Object TeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "ابدأ خيارات الحفظ بتنسيق SVG باستخدام [*SvgSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/SvgSaveOptions)."
 item5: "قم بتشغيل تحويل TeX إلى SVG باستخدام أسلوب [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

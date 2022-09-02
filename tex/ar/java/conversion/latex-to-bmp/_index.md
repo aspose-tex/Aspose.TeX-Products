@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: LaTeX إلى BMP Converdion API | Java
 description: LaTeX إلى وظائف تحويل BMP. ادمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى BMP.
-keywords: اللاتكس إلى bmp api java ، دمج latex2bmp
+keywords: اللاتكس إلى bmp api java و دمج latex2bmp
 url: /java/conversion/latex-to-bmp/
 family: tex
 platformtag: java
@@ -35,7 +35,7 @@ title: "خطوات تحويل LATEX إلى BMP على Java"
 h3: "يوضح نموذج الرمز هذا تحويل LATEX إلى BMP Java"
 item1: "يُسهل Aspose.TeX على المطورين تحويل ملفات LATEX إلى BMP في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق كائن LaTeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "ابدأ خيارات الحفظ بتنسيق BMP باستخدام [*BmpSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/BmpSaveOptions)."
 item5: "قم بتشغيل تحويل LaTeX إلى BMP باستخدام أسلوب [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

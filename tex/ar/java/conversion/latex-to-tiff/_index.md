@@ -3,7 +3,7 @@ translation: true
 template: /_templates/_conversion-child-java.md
 title: LaTeX إلى TIFF Converdion API | Java
 description: وظائف تحويل LaTeX إلى TIFF. ادمج مكتبة Java المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى TIFF.
-keywords: اللاتكس إلى tiff api java ، دمج latex2tiff
+keywords: اللاتكس إلى tiff api java و دمج latex2tiff
 url: /java/conversion/latex-to-tiff/
 family: tex
 platformtag: java
@@ -35,7 +35,7 @@ title: "خطوات تحويل LATEX إلى TIFF على Java"
 h3: "يوضح نموذج التعليمات البرمجية هذا تحويل LATEX إلى TIFF Java"
 item1: "يسهل Aspose.TeX على المطورين تحويل ملفات LATEX إلى TIFF في بضعة أسطر من التعليمات البرمجية."
 item2: "قم بتهيئة [*TeXOptions*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions) لإنشاء خيارات تحويل لتنسيق كائن LaTeX."
-item3: "لتعيين مساحة ، أو منطقة ، حيث سيتم كتابة إخراج TeX ، قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
+item3: "لتعيين مساحة و أو منطقة و حيث سيتم كتابة إخراج TeX و قم بتعيين دليل عمل النظام للمخرجات باستخدام [*OutputWorkingDirectory*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXOptions#getOutputWorkingDirectory--)"
 item4: "قم بتهيئة خيارات الحفظ بتنسيق TIFF باستخدام [*TiffSaveOptions*](https://reference.aspose.com/tex/java/com.aspose.tex.rendering/TiffSaveOptions)."
 item5: "قم بتشغيل تحويل LaTeX إلى TIFF باستخدام أسلوب [*TeXJob ()*](https://reference.aspose.com/tex/java/com.aspose.tex/TeXJob)."
 ---

@@ -36,14 +36,14 @@ h3: "Mẫu mã này giải thích Chuyển đổi TEX sang SVG C ++"
 item1: "Aspose.TeX giúp các nhà phát triển dễ dàng chuyển đổi các tệp TEX thành SVG chỉ trong một vài dòng mã."
 item2: "Khởi tạo [*TeXOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options)."
 item3: "Chỉ định thư mục làm việc của hệ thống tệp cho đầu ra bằng [*OutputWorkingDirectory*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63)"
-item4: "Khởi tạo các tùy chọn để lưu ở định dạng SVG bằng [* SvgSaveOptions *](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.svg_save_options)"
+item4: "Khởi tạo các tùy chọn để lưu ở định dạng SVG bằng [*SvgSaveOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.svg_save_options)"
 item5: "Chạy chuyển đổi TeX sang SVG bằng phương pháp [*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job)."
 ---
 
 {{<section feature2>}}
 ---
 title: Bắt đầu với C ++ TeX API
-item1: "Cài đặt từ dòng lệnh với tên `` nuget install Aspose.TeX.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.TeX.Cpp ''."
+item1: "Cài đặt từ dòng lệnh với tên ```nuget install Aspose.TeX.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.TeX.Cpp ''."
 item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/tex/cpp).
 ---
 
