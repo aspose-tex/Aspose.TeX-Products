@@ -16,7 +16,7 @@ otherformats: PDF PNG JPEG TIFF SVG XPS
 {{<section banner>}}
 ---
 h1: TEX से PDF
-h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को PDF में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को PDF में ।"
 ---
 
 {{<section overview>}}

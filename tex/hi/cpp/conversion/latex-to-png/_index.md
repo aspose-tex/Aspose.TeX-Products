@@ -2,7 +2,7 @@
 translation: true
 template: /_templates/_conversion-child-cpp.md
 title: "लाTEX से PNG कन्वर्जन एपीआई | C++"
-description: "लाTEX से PNG रूपांतरण कार्यक्षमता। इस ऑन-प्रिमाइसेस C++ लाइब्रेरी को अपने प्रोजेक्ट में एकीकृत करें या LaTeX को PNG में बदलने के लिए क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन का उपयोग करें।"
+description: "TEX से PNG रूपांतरण कार्यक्षमता। इस ऑन-प्रिमाइसेस C++ लाइब्रेरी को अपने प्रोजेक्ट में एकीकृत करें या LaTeX को PNG में बदलने के लिए क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन का उपयोग करें।"
 keywords: "लेTEX टू PNG एपीआई सीपीपी, लेTEX 2 PNG C++ को एकीकृत करता है"
 url: /cpp/conversion/latex-to-png/
 family: tex
@@ -16,7 +16,7 @@ otherformats: PNG JPEG TIFF PDF SVG XPS
 {{<section banner>}}
 ---
 h1: लेTEX से PNG
-h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को PNG में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को PNG में ।"
 ---
 
 {{<section overview>}}

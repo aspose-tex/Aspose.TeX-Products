@@ -36,7 +36,7 @@ h3: "Mẫu mã này giải thích Chuyển đổi TEX sang JPEG C ++"
 item1: "Aspose.TeX giúp các nhà phát triển dễ dàng chuyển đổi các tệp TEX sang JPEG chỉ trong một vài dòng mã."
 item2: "Khởi tạo [*TeXOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options)."
 item3: "Chỉ định thư mục làm việc của hệ thống tệp cho đầu ra bằng [*OutputWorkingDirectory*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_options#aa4f4ea6dab7db5ba1b40800495f16f63)"
-item4: "Khởi tạo các tùy chọn để lưu ở định dạng JPEG bằng [* JpegSaveOptions *](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.jpeg_save_options)"
+item4: "Khởi tạo các tùy chọn để lưu ở định dạng JPEG bằng [*JpegSaveOptions*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.presentation.image.jpeg_save_options)"
 item5: "Chạy chuyển đổi TeX sang JPEG bằng phương pháp [*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x_job)."
 ---
 

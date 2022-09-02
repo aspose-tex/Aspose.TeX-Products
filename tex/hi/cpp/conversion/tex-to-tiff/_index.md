@@ -16,7 +16,7 @@ otherformats: BMP PNG JPEG PDF SVG XPS
 {{<section banner>}}
 ---
 h1: TEX टू TIFF
-h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को TIFF में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को TIFF में ।"
 ---
 
 {{<section overview>}}

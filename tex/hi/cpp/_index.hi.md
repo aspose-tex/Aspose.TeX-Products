@@ -7,7 +7,7 @@ keywords: TEX रूपांतरण एपीआई सीपीपी, TEX �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ टीएक्स मैनिपुलेशन लाइब्रेरी" h2="C++ आधारित अनुप्रयोगों के भीतर TeX और LaTeX फ़ाइलों को टाइप करें और कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ टीएक्स मैनिपुलेशन लाइब्रेरी" h2="C++ आधारित अनुप्रयोगों के भीतर TeX और LaTeX फ़ाइलों को टाइप करें और ।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 

@@ -4,7 +4,7 @@ template: /_templates/_conversion-cpp.md
 title: "टीएक्स (लाTEX) फ़ाइलें रूपांतरण | C++"
 url: /cpp/conversion/
 keywords: "TEX कनवर्टर सीपीपी एपीआई, TEX कनवर्टर C++ एपीआई"
-description: "टीएक्स (लाTEX) रूपांतरण C++ एपीआई समाधान। C++ कोड की कुछ पंक्तियों के साथ PNG, JPEG, TIFF, BMP सहित PDF, XPS और छवियों में लाTEX फाइलों को कनवर्ट करें।"
+description: "टीएक्स (लाTEX) रूपांतरण C++ एपीआई समाधान। C++ कोड की कुछ पंक्तियों के साथ PNG, JPEG, TIFF, BMP सहित PDF, XPS और छवियों में लाTEX फाइलों को ।"
 family: tex
 platformtag: cpp
 feature: conversion

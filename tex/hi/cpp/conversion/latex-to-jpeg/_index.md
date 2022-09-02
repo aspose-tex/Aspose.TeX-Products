@@ -16,7 +16,7 @@ otherformats: BMP PNG TIFF PDF SVG XPS
 {{<section banner>}}
 ---
 h1: लेTEX से JPEG
-h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को JPEG में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को JPEG में ।"
 ---
 
 {{<section overview>}}

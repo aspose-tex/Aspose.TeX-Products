@@ -6,7 +6,7 @@ description: जावा अनुप्रयोगों के भीतर 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="टीएक्स फाइलों को संसाधित करने के लिए जावा एपीआई" h2="जावा आधारित अनुप्रयोगों के भीतर टीएक्स और लाTEX फाइलों को टाइप करें और कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="टीएक्स फाइलों को संसाधित करने के लिए जावा एपीआई" h2="जावा आधारित अनुप्रयोगों के भीतर टीएक्स और लाTEX फाइलों को टाइप करें और ।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 

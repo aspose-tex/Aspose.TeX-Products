@@ -16,7 +16,7 @@ otherformats: BMP PNG JPEG TIFF SVG PDF
 {{<section banner>}}
 ---
 h1: TEX टू XPS
-h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को XPS में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से TEX को XPS में ।"
 ---
 
 {{<section overview>}}

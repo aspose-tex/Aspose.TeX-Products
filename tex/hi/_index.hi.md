@@ -34,7 +34,7 @@ TeX और LaTeX फ़ाइलों को आसान तरीके स�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX" title="परिवर्तन" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/tex/conversion" >}}
-टीएक्स और लाTEX फाइलों को PDF, XPS या छवि प्रारूपों में कनवर्ट करें।"
+टीएक्स और लाTEX फाइलों को PDF, XPS या छवि प्रारूपों में ।"
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.TeX " title="विलयन" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/tex/merger" >}}

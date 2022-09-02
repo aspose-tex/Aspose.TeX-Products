@@ -16,7 +16,7 @@ otherformats: BMP PNG JPEG TIFF PDF XPS
 {{<section banner>}}
 ---
 h1: लाTEX से SVG
-h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को SVG में कनवर्ट करें।"
+h2: "C++ के लिए एपीआई समाधान के माध्यम से लाTEX को SVG में ।"
 ---
 
 {{<section overview>}}
