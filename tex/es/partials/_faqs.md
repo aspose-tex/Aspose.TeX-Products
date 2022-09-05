@@ -5,7 +5,7 @@ deploy: false
 
 {{<section faq>}}
 ---
-h2: Preguntas más frecuentes
+h2: FAQ
 Q1: "¿Para qué sirve Aspose.TeX?"
 A1: "Esta solución compleja está desarrollada para administrar archivos TeX y LaTeX. Junto con una rica funcionalidad API, ofrece un conjunto de aplicaciones multiplataforma para crear, convertir, ver y fusionar archivos con extensiones .tex y .latex, hacer tablas, insertar fórmulas y gráficos."
 Q2: "¿Puedo usar esta solución para cuidar mis propias aplicaciones?"
@@ -16,7 +16,7 @@ A3: "La [aplicación multiplataforma](https://products.aspose.app/tex/applicatio
 
 {{<section faq-converter>}}
 ---
-h2: Preguntas más frecuentes
+h2: FAQ
 Q1: "¿Puedo convertir TeX con esta solución API?"
 A1: "Aspose.TeX tiene una funcionalidad que le permite convertir archivos TeX y LaTeX a otros formatos en línea o mediante programación. Si necesita transformar sus archivos instantáneamente en línea, puede utilizar la aplicación multiplataforma [TeX Converter](https://products.aspose.app/tex/conversion/)."
 Q2: "¿Qué conversiones son compatibles?"
@@ -27,7 +27,7 @@ A3: "Los [convertidores multiplataforma](https://products.aspose.app/tex/convers
 
 {{<section faq-converter-child>}}
 ---
-h2: Preguntas más frecuentes
+h2: FAQ
 Q1: "¿Puedo convertir {{i18n.informat}} a {{i18n.outformat}}?"
 A1: "La solución Aspose.TeX tiene una funcionalidad que le permite convertir archivos {{i18n.informat}} a otros formatos en línea o mediante programación. Si necesita transformar {{i18n.informat}} a {{i18n.outformat}} instantáneamente en línea, puede usar [{{i18n.informat}} Converter](https://products.aspose.app/tex/conversión/{{i18n.informatlower}}) aplicación multiplataforma."
 Q2: "¿Puedo encontrar información más detallada sobre cómo convertir {{i18n.informat}} a {{i18n.outformat}}?"

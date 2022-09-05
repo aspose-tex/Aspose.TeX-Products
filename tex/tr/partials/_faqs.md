@@ -5,7 +5,7 @@ deploy: false
 
 {{<section faq>}}
 ---
-h2: SSS
+h2: FAQ
 Q1: "Aspose.TeX ne için?"
 A1: "Bu karmaşık çözüm, TeX ve LaTeX dosyalarını yönetmek için geliştirilmiştir. Zengin API işlevselliğinin yanı sıra, .tex ve .latex uzantılı dosyalar oluşturmak, dönüştürmek, görüntülemek ve birleştirmek, tablolar oluşturmak, formüller ve grafikler eklemek için bir dizi çapraz platform uygulaması sunar."
 Q2: "Bu çözümü kendi uygulamalarımı korumak için kullanabilir miyim?"
@@ -16,7 +16,7 @@ A3: "[Çapraz platform uygulaması](https://products.aspose.app/tex/applications
 
 {{<section faq-converter>}}
 ---
-h2: SSS
+h2: FAQ
 Q1: "Bu API çözümüyle TeX'i dönüştürebilir miyim?"
 A1: "Aspose.TeX, TeX ve LaTeX dosyalarını çevrimiçi veya programlı olarak diğer formatlara dönüştürmenize olanak tanıyan işlevselliğe sahiptir. Dosyalarınızı anında çevrimiçi dönüştürmeniz gerekiyorsa, platformlar arası [TeX Converter](https://products.aspose.app/tex/conversion/) uygulamasını kullanmak isteyebilirsiniz."
 Q2: "Hangi Dönüşümler desteklenir?"
@@ -27,7 +27,7 @@ A3: "[Platformlar arası dönüştürücüler](https://products.aspose.app/tex/c
 
 {{<section faq-converter-child>}}
 ---
-h2: SSS
+h2: FAQ
 Q1: "{{i18n.informat}} dosyasını {{i18n.outformat}} biçimine dönüştürebilir miyim?"
 A1: "Aspose.TeX çözümü, {{i18n.informat}} dosyalarını çevrimiçi veya programlı olarak diğer biçimlere dönüştürmenize olanak tanıyan işlevselliğe sahiptir. {{i18n.informat}}'ı anında çevrimiçi olarak {{i18n.outformat}}'a dönüştürmeniz gerekiyorsa [{{i18n.informat}} Dönüştürücü](https://products.aspose.app/tex/) kullanmak isteyebilirsiniz. dönüştürme/{{i18n.informat alt}}) platformlar arası uygulama."
 Q2: "{{i18n.informat}} dosyasını {{i18n.outformat}} biçimine nasıl dönüştüreceğim konusunda daha ayrıntılı bilgi bulabilir miyim?"

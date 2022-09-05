@@ -11,6 +11,8 @@ outformat: {{i18n.outformat}}
 otherformats: {{i18n.otherformats}}
 ---
 
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faqchild">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
 
@@ -64,6 +66,27 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< /blocks/products/pf/agp/feature-section>}}
 {{< /blocks/products/pf/main-wrap-class>}}
 
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A3">}}
+
+<b>4. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q4">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A4">}}
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/about-file-section >}}     
 {{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" section="{{i18n.informat}}" >}}

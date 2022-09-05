@@ -5,7 +5,7 @@ deploy: false
 
 {{<section faq>}}
 ---
-h2: よくある質問
+h2: FAQ
 Q1: "Aspose.TeX とは何ですか?"
 A1: "この複雑なソリューションは、TeX および LaTeX ファイルを管理するために開発されました。豊富な API 機能に加えて、.tex および .latex 拡張子を持つファイルの作成、変換、表示、およびマージ、テーブルの作成、数式およびグラフィックの挿入を行う一連のクロスプラットフォーム アプリケーションを提供します。"
 Q2: "このソリューションを使用して自分のアプリケーションを管理できますか?"
@@ -16,7 +16,7 @@ A3: "[クロスプラットフォーム アプリケーション](https://produc
 
 {{<section faq-converter>}}
 ---
-h2: よくある質問
+h2: FAQ
 Q1: "この API ソリューションで TeX を変換できますか?"
 A1: "Aspose.TeX には、オンラインまたはプログラムで TeX および LaTeX ファイルを他の形式に変換できる機能があります。ファイルをオンラインで即座に変換する必要がある場合は、[TeX コンバーター](https://products.aspose.app/tex/conversion/) クロスプラットフォーム アプリケーションを使用できます。"
 Q2: "どのような変換がサポートされていますか?"
@@ -27,7 +27,7 @@ A3: "[クロスプラットフォーム コンバーター](https://products.asp
 
 {{<section faq-converter-child>}}
 ---
-h2: よくある質問
+h2: FAQ
 Q1: "{{i18n.informat}} を {{i18n.outformat}} に変換できますか?"
 A1: "Aspose.TeX ソリューションには、{{i18n.informat}} ファイルをオンラインまたはプログラムで他の形式に変換できる機能があります。オンラインで {{i18n.informat}} を {{i18n.outformat}} に即座に変換する必要がある場合は、[{{i18n.informat}} コンバーター](https://products.aspose.app/tex/conversion/{{i18n.informatlower}}) クロスプラットフォーム アプリケーション。"
 Q2: "{{i18n.informat}} を {{i18n.outformat}} に変換する方法について、より詳細な情報を見つけることはできますか?"

@@ -5,7 +5,7 @@ deploy: false
 
 {{<section faq>}}
 ---
-h2: 자주하는 질문
+h2: FAQ
 Q1: "Aspose.TeX는 무엇을 위한 것입니까?"
 A1: "이 복잡한 솔루션은 TeX 및 LaTeX 파일을 관리하기 위해 개발되었습니다. 풍부한 API 기능과 함께 .tex 및 .latex 확장자를 가진 파일을 생성, 변환, 보기 및 병합하고, 테이블을 만들고, 수식 및 그래픽을 삽입하는 크로스 플랫폼 애플리케이션 세트를 제공합니다."
 Q2: "이 솔루션을 사용하여 내 애플리케이션을 관리할 수 있습니까?"
@@ -16,7 +16,7 @@ A3: "[크로스 플랫폼 애플리케이션](https://products.aspose.app/tex/ap
 
 {{<section faq-converter>}}
 ---
-h2: 자주하는 질문
+h2: FAQ
 Q1: "이 API 솔루션으로 TeX를 변환할 수 있습니까?"
 A1: "Aspose.TeX에는 TeX 및 LaTeX 파일을 온라인 또는 프로그래밍 방식으로 다른 형식으로 변환할 수 있는 기능이 있습니다. 파일을 온라인에서 즉시 변환해야 하는 경우 [TeX Converter](https://products.aspose.app/tex/conversion/) 크로스 플랫폼 응용 프로그램을 사용하는 것이 좋습니다."
 Q2: "어떤 전환이 지원됩니까?"
@@ -27,7 +27,7 @@ A3: "[교차 플랫폼 변환기](https://products.aspose.app/tex/conversion)는
 
 {{<section faq-converter-child>}}
 ---
-h2: 자주하는 질문
+h2: FAQ
 Q1: "{{i18n.informat}}을 {{i18n.outformat}}으로 변환할 수 있나요?"
 A1: "Aspose.TeX 솔루션에는 온라인 또는 프로그래밍 방식으로 {{i18n.informat}} 파일을 다른 형식으로 변환할 수 있는 기능이 있습니다. 온라인에서 즉시 {{i18n.informat}}을 {{i18n.outformat}}으로 변환해야 하는 경우 [{{i18n.informat}} 변환기](https://products.aspose.app/tex/변환/{{i18n.informatlower}}) 크로스 플랫폼 애플리케이션."
 Q2: "{{i18n.informat}}을 {{i18n.outformat}}으로 변환하는 방법에 대한 자세한 정보를 찾을 수 있나요?"

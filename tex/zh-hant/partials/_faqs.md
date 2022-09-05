@@ -5,7 +5,7 @@ deploy: false
 
 {{<section faq>}}
 ---
-h2: 常問問題
+h2: FAQ
 Q1: "Aspose.TeX 有什麼用？"
 A1: "這個複雜的解決方案是為管理 TeX 和 LaTeX 文件而開發的。除了豐富的 API 功能外，它還提供一組跨平台應用程序來創建、轉換、查看和合併具有 .tex 和 .latex 擴展名的文件、製作表格、插入公式和圖形。"
 Q2: "我可以使用此解決方案來管理我自己的應用程序嗎？"
@@ -16,7 +16,7 @@ A3: "[跨平台應用程序](https://products.aspose.app/tex/applications) 是�
 
 {{<section faq-converter>}}
 ---
-h2: 常問問題
+h2: FAQ
 Q1: "我可以用這個 API 解決方案轉換 TeX 嗎？"
 A1: "Aspose.TeX 具有允許您在線或以編程方式將 TeX 和 LaTeX 文件轉換為其他格式的功能。如果您需要立即在線轉換文件，您可能喜歡使用 [TeX Converter](https://products.aspose.app/tex/conversion/) 跨平台應用程序。"
 Q2: "支持哪些轉換？"
@@ -27,7 +27,7 @@ A3: "[跨平台轉換器](https://products.aspose.app/tex/conversion) 是免費�
 
 {{<section faq-converter-child>}}
 ---
-h2: 常問問題
+h2: FAQ
 Q1: "我可以將 {{i18n.informat}} 轉換為 {{i18n.outformat}} 嗎？"
 A1: "Aspose.TeX 解決方案具有允許您在線或以編程方式將 {{i18n.informat}} 文件轉換為其他格式的功能。如果您需要立即在線將 {{i18n.informat}} 轉換為 {{i18n.outformat}}，您可以使用 [{{i18n.informat}} 轉換器](https://products.aspose.app/tex/轉換/{{i18n.informatlower}}) 跨平台應用程序。"
 Q2: "我可以找到有關如何將 {{i18n.informat}} 轉換為 {{i18n.outformat}} 的更詳細信息嗎？"
