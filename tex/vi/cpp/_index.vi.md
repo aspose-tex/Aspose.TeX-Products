@@ -3,7 +3,7 @@ title: API xử lý và tích hợp C++ TeX - Aspose
 weight: 50
 url: /vi/cpp/ 
 description: Thư viện C++ TeX để xử lý tệp TeX trong các ứng dụng C++. Nó cung cấp chức năng sắp chữ cùng với chuyển đổi TeX sang PDf, SVG, XPS và các định dạng khác.
-keywords: chuyển đổi tex api cpp, tích hợp tex chuyển đổi c ++
+keywords: chuyển đổi tex api cpp, tích hợp tex chuyển đổi C++
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
