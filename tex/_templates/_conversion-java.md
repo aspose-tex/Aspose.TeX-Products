@@ -69,7 +69,9 @@ feature: conversion
 {{< blocks/products/pf/feature-page-options pairs="tex-to-pdf tex-to-xps tex-to-svg tex-to-png tex-to-bmp tex-to-tiff tex-to-jpeg latex-to-pdf latex-to-xps latex-to-svg latex-to-png latex-to-bmp latex-to-tiff latex-to-jpeg" >}}
 
 {{% blocks/products/pf/agp/content %}}
+
 <br><br>
+
 <h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.h2">}}</h2>
 
 <b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q1">}}</b>

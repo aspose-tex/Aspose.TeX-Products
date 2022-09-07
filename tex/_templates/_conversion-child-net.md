@@ -91,6 +91,7 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 
 {{% /blocks/products/pf/agp/content %}}
 
+
 {{< blocks/products/pf/agp/about-file-section >}}     
 {{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" section="{{i18n.informat}}" >}}
 {{<import path="/{{lang}}/partials/_formats.md" section="{{i18n.informat}}">}}
