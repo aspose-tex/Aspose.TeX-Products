@@ -66,6 +66,8 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "{{inputFile}}"), new ImageD
 {{< /blocks/products/pf/agp/feature-section>}}
 {{< /blocks/products/pf/main-wrap-class>}}
 
+{{% blocks/products/pf/agp/content %}}
+
 <br><br>
 
 <h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
