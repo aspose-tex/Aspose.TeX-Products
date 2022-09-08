@@ -44,7 +44,7 @@ item5: "Execute a conversão de TeX para XPS usando o método [*TeXJob()*](https
 ---
 title: Introdução à API C++ TeX
 item1: "Instale a partir da linha de comando como ```nuget install Aspose.TeX.Cpp``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.TeX.Cpp```."
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

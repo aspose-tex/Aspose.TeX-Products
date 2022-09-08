@@ -44,7 +44,7 @@ item5: "Futtassa a LaTeX-et BMP-vé a [*TeXJob()*](https://reference.aspose.com/
 ---
 title: Ismerkedjen meg a .NET TeX API-val
 item1: "Telepítés parancssorból ```nuget install Aspose.TeX```ként, vagy a Visual Studio csomagkezelő konzolján keresztül az ```Install-Package Aspose.TeX``` segítségével."
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről  [downloads](https://downloads.aspose.com/tex/net).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről  [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

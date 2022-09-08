@@ -26,7 +26,7 @@ p1: "Aspose.TeX สำหรับตัวแปลง TeX เป็น BMP แ
 p2: "API ที่คุณเห็นที่นี่ยังสามารถใช้เพื่อสร้างแอปพลิเคชันข้ามแพลตฟอร์มของคุณเองหรือรวมเข้ากับโปรเจ็กต์ Java ของคุณได้"
 p3: "ในการแปลง TeX เป็น BMP:"
 p4: "ใช้ [Aspose.TeX สำหรับ Java](https://products.aspose.com/tex/java) API ซึ่งเป็น API การแปลงที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่ายสำหรับแพลตฟอร์ม Java"
-p5: "คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) และติดตั้งภายใน Maven ของคุณ - ตามโครงการโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml"
+p5: "คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก [Aspose Maven Repository](https://repository.aspose.com/tex/) และติดตั้งภายใน Maven ของคุณ - ตามโครงการโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml"
 ---
 
 {{<section feature1>}}

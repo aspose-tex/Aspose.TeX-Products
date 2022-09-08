@@ -6,7 +6,7 @@ description: Java TeX library to process TeX files within Java applications. It 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to process TeX files" h2="Typeset and convert TeX and LaTeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to process TeX files" h2="Typeset and convert TeX and LaTeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/tex/java" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
@@ -320,6 +320,7 @@ Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaT
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -336,7 +337,7 @@ Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaT
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tex/java" pricingInformationLink="https://purchase.aspose.com/pricing/tex/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/tex/java" pricingInformationLink="https://purchase.aspose.com/pricing/tex/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 

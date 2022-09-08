@@ -44,7 +44,7 @@ item5: "[*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x
 ---
 title: C++ TeX API'sini Kullanmaya Başlayın
 item1: "Komut satırından ```nuget install Aspose.TeX.Cpp``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.TeX.Cpp`` ile kurun."
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/tex/cpp) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/tex/cpp) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section widget>}}

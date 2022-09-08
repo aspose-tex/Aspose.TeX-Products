@@ -44,7 +44,7 @@ item5: "Kör LaTeX till JPEG-konvertering med metoden [*TeXJob()*](https://refer
 ---
 title: Kom igång med C++ TeX API
 item1: "Installera från kommandoraden som ```nuget install Aspose.TeX.Cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.TeX.Cpp```."
-item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

@@ -26,7 +26,7 @@ p1: "Aspose.TeX für den TeX-zu-TIFF-Konverter wandelt TeX-Dateien in TIFF-Bilde
 p2: "Die API, die Sie hier sehen, kann auch verwendet werden, um Ihre eigene plattformübergreifende Anwendung zu erstellen oder in Ihr Java-Projekt integriert zu werden."
 p3: "Um TeX in TIFF umzuwandeln:"
 p4: "Verwenden Sie die [Aspose.TeX for Java](https://products.aspose.com/tex/java) API, die eine funktionsreiche, leistungsstarke und benutzerfreundliche Konvertierungs-API für die Java-Plattform ist."
-p5: "Sie können die neueste Version direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) herunterladen und in Ihrem Maven installieren -basiertes Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen."
+p5: "Sie können die neueste Version direkt von [Aspose Maven Repository](https://repository.aspose.com/tex/) herunterladen und in Ihrem Maven installieren -basiertes Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen."
 ---
 
 {{<section feature1>}}

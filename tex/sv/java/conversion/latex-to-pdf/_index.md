@@ -26,7 +26,7 @@ p1: "Aspose.TeX för LaTeX till PDF-omvandlare omvandlar LaTeX-fil till PDF-bild
 p2: "API:et du ser här kan också användas för att skapa din egen plattformsoberoende applikation eller integreras i ditt Java-projekt."
 p3: "För att konvertera LaTeX till PDF:"
 p4: "Använd [Aspose.TeX för Java](https://products.aspose.com/tex/java) API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen."
-p5: "Du kan ladda ner den senaste versionen direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) och installera den i din Maven -baserat projekt genom att lägga till följande konfigurationer till pom.xml."
+p5: "Du kan ladda ner den senaste versionen direkt från [Aspose Maven Repository](https://repository.aspose.com/tex/) och installera den i din Maven -baserat projekt genom att lägga till följande konfigurationer till pom.xml."
 ---
 
 {{<section feature1>}}

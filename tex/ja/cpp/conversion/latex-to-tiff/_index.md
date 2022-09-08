@@ -44,7 +44,7 @@ item5: "[*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x
 ---
 title: C++ TeX API を使ってみる
 item1: "コマンド ラインから ```nuget install Aspose.TeX.Cpp``` としてインストールするか、Visual Studio のパッケージ マネージャー コンソール経由で ```Install-Package Aspose.TeX.Cpp``` を使用してインストールします。"
-item2: または、[ダウンロード](https://downloads.aspose.com/tex/cpp) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
+item2: または、[ダウンロード](https://releases.aspose.com/tex/cpp) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
 ---
 
 {{<section widget>}}

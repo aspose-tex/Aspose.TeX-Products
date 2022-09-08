@@ -26,7 +26,7 @@ p1: "Aspose.TeX para conversor de LaTeX para JPEG transforma o arquivo LaTeX em 
 p2: "A API que você vê aqui também pode ser usada para criar seu próprio aplicativo multiplataforma ou ser integrada ao seu projeto Java."
 p3: "Para converter LaTeX para JPEG:"
 p4: "Use a API [Aspose.TeX for Java](https://products.aspose.com/tex/java) que é uma API de conversão rica em recursos, poderosa e fácil de usar para a plataforma Java."
-p5: "Você pode baixar sua versão mais recente diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) e instalá-lo no seu Maven baseado em projeto adicionando as seguintes configurações ao pom.xml."
+p5: "Você pode baixar sua versão mais recente diretamente do [Aspose Maven Repository](https://repository.aspose.com/tex/) e instalá-lo no seu Maven baseado em projeto adicionando as seguintes configurações ao pom.xml."
 ---
 
 {{<section feature1>}}

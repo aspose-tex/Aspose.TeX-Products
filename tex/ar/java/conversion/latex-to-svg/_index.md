@@ -26,7 +26,7 @@ p1: "يقوم Aspose.TeX for LaTeX to SVG Converter بتحويل ملف LaTeX إ
 p2: "يمكن أيضًا استخدام واجهة برمجة التطبيقات التي تراها هنا لإنشاء تطبيق خاص بك عبر الأنظمة الأساسية أو دمجها في مشروع Java الخاص بك."
 p3: "لتحويل LaTeX إلى SVG:"
 p4: "استخدم [Aspose.TeX for Java](https://products.aspose.com/tex/java) API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة جافا."
-p5: "يمكنك تنزيل أحدث إصدار مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) وتثبيته داخل Maven الخاص بك مشروع قائم على أساس إضافة التكوينات التالية إلى ملف pom.xml."
+p5: "يمكنك تنزيل أحدث إصدار مباشرة من [Aspose Maven Repository](https://repository.aspose.com/tex/) وتثبيته داخل Maven الخاص بك مشروع قائم على أساس إضافة التكوينات التالية إلى ملف pom.xml."
 ---
 
 {{<section feature1>}}

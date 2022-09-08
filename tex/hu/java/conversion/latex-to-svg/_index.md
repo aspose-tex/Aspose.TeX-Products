@@ -26,7 +26,7 @@ p1: "Az Aspose.TeX for LaTeX to SVG konverter átalakítja a LaTeX fájlt SVG k�
 p2: "Az itt látható API saját, többplatformos alkalmazás létrehozására is használható, vagy integrálható a Java-projektbe."
 p3: "A LaTeX SVG-vé konvertálásához:"
 p4: "Használja az [Aspose.TeX for Java](https://products.aspose.com/tex/java) API-t, amely funkciókban gazdag, hatékony és könnyen használható konverziós API Java platformhoz."
-p5: "Legfrissebb verzióját közvetlenül letöltheti a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) webhelyről , és telepítheti a Maven-be. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
+p5: "Legfrissebb verzióját közvetlenül letöltheti a [Aspose Maven Repository](https://repository.aspose.com/tex/) webhelyről , és telepítheti a Maven-be. -alapú projektet a következő konfigurációk hozzáadásával a pom.xml fájlhoz."
 ---
 
 {{<section feature1>}}

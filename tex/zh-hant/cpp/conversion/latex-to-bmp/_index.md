@@ -44,7 +44,7 @@ item5: "使用 [*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te
 ---
 title: 開始使用 C++ TeX API
 item1: "從命令行安裝為 ```nuget install Aspose.TeX.Cpp``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.TeX.Cpp``。"
-item2: 或者，從 [下載](https://downloads.aspose.com/tex/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/tex/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 ---
 
 {{<section widget>}}

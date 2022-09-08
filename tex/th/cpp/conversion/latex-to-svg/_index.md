@@ -44,7 +44,7 @@ item5: "เรียกใช้การแปลง LaTeX เป็น SVG โ
 ---
 title: เริ่มต้นใช้งาน C++ TeX API
 item1: "ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget ติดตั้ง Aspose.TeX.Cpp``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.TeX.Cpp```"
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/tex/cpp)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/tex/cpp)
 ---
 
 {{<section widget>}}

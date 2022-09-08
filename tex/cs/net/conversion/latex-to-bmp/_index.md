@@ -44,7 +44,7 @@ item5: "Spusťte převod LaTeXu na BMP pomocí metody [*TeXJob()*](https://refer
 ---
 title: Začněte s .NET TeX API
 item1: "Instalujte z příkazové řádky jako ```nuget install Aspose.TeX``` nebo přes konzolu Správce balíčků sady Visual Studio s ```Install-Package Aspose.TeX```."
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/tex/net).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

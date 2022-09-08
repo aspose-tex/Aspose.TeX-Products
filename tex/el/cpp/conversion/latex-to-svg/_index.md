@@ -44,7 +44,7 @@ item5: "Εκτελέστε τη μετατροπή LaTeX σε SVG χρησιμο
 ---
 title: Ξεκινήστε με το C++ TeX API
 item1: "Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.TeX.Cpp``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.TeX.Cpp```"
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

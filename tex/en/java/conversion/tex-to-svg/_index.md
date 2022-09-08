@@ -26,7 +26,7 @@ p1: "Aspose.TeX for TeX to SVG converter transforms TeX file to SVG image with u
 p2: "The API you see here can be also used to create your own cross-platform application or be integrated into your Java project."
 p3: "In order to convert TeX to SVG:"
 p4: "Use [Aspose.TeX for Java](https://products.aspose.com/tex/java) API which is a feature-rich, powerful and easy to use conversion API for Java platform."
-p5: "You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) and install it within your Maven-based project by adding the following configurations to the pom.xml."
+p5: "You can download its latest version directly from [Aspose Maven Repository](https://repository.aspose.com/tex/) and install it within your Maven-based project by adding the following configurations to the pom.xml."
 ---
 
 {{<section feature1>}}

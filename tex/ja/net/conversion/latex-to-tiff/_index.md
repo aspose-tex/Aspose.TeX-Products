@@ -43,7 +43,7 @@ item5: "[*TeXJob()*](https://reference.aspose.com/tex/net/aspose.tex/texjob/) �
 ---
 title: .NET TeX API を使ってみる
 item1: "コマンド ラインから ```nuget install Aspose.TeX``` としてインストールするか、Visual Studio のパッケージ マネージャー コンソール経由で ```Install-Package Aspose.TeX``` を使用してインストールします。"
-item2: または、[ダウンロード](https://downloads.aspose.com/tex/net) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
+item2: または、[ダウンロード](https://releases.aspose.com/tex/net) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
 ---
 
 {{<section widget>}}

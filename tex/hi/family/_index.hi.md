@@ -6,7 +6,7 @@ description: .NET, Java और C++ के लिए TeX नेटिव एप�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="किसी भी प्लेटफॉर्म पर टाइपसेट टीएक्स फाइलें" h2="टीएक्स फाइलों को टाइप करने और कन्वर्ट करने के लिए नेटिव एपीआई।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex.svg" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="किसी भी प्लेटफॉर्म पर टाइपसेट टीएक्स फाइलें" h2="टीएक्स फाइलों को टाइप करने और कन्वर्ट करने के लिए नेटिव एपीआई।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex.svg" pfName="" downloadUrl="https://releases.aspose.com/tex" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX हाई कोड API में शामिल हैं" >}}
@@ -47,6 +47,6 @@ description: .NET, Java और C++ के लिए TeX नेटिव एप�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tex" pricingInformationLink="https://purchase.aspose.com/pricing/tex" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tex" pricingInformationLink="https://purchase.aspose.com/pricing/tex" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

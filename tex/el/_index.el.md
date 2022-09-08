@@ -6,7 +6,7 @@ description: API και εφαρμογές TeX High Code για στοιχειο
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Λύση ενσωμάτωσης TeX" h2="Λύσεις API και εφαρμογές πολλαπλών πλατφορμών για στοιχειοθέτηση, επεξεργασία και μετατροπή αρχείων TeX (LaTeX)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Λύση ενσωμάτωσης TeX" h2="Λύσεις API και εφαρμογές πολλαπλών πλατφορμών για στοιχειοθέτηση, επεξεργασία και μετατροπή αρχείων TeX (LaTeX)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://releases.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Περιλαμβάνονται τα API Aspose.TeX High Code" >}}
@@ -47,7 +47,7 @@ C++ On Premise API για στοιχειοθέτηση TeX και μετατρο
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

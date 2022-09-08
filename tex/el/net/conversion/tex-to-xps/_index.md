@@ -45,7 +45,7 @@ item5: "Εκτελέστε τη μετατροπή TeX σε XPS χρησιμοπ
 ---
 title: Ξεκινήστε με το .NET TeX API
 item1: "Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.TeX``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.TeX```."
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/tex/net).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

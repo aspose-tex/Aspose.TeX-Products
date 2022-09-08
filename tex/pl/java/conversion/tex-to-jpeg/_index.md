@@ -26,7 +26,7 @@ p1: "Aspose.TeX for TeX to JPEG konwerter przekształca plik TeX na obraz JPEG p
 p2: "Widoczny tutaj interfejs API może być również wykorzystany do stworzenia własnej aplikacji wieloplatformowej lub zostać zintegrowany z projektem Java."
 p3: "Aby przekonwertować TeX na JPEG:"
 p4: "Użyj interfejsu API [Aspose.TeX for Java](https://products.aspose.com/tex/java), który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API konwersji dla platformy Java."
-p5: "Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) i zainstalować ją w swoim Maven oparty na projekcie poprzez dodanie następujących konfiguracji do pliku pom.xml."
+p5: "Możesz pobrać jego najnowszą wersję bezpośrednio z [Aspose Maven Repository](https://repository.aspose.com/tex/) i zainstalować ją w swoim Maven oparty na projekcie poprzez dodanie następujących konfiguracji do pliku pom.xml."
 ---
 
 {{<section feature1>}}

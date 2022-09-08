@@ -45,7 +45,7 @@ item5: "قم بتشغيل تحويل TeX إلى PNG باستخدام أسلوب 
 ---
 title: ابدأ مع .NET TeX API
 item1: "قم بالتثبيت من سطر الأوامر كـ ```nuget install Aspose.TeX ```أو عبر Package Manager Console في Visual Studio مع```Install-Package Aspose.TeX```."
-item2: بدلاً من ذلك و احصل على مثبت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/tex/net).
+item2: بدلاً من ذلك و احصل على مثبت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

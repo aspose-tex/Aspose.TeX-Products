@@ -44,7 +44,7 @@ item5: "Запустите преобразование TeX в PDF, исполь
 ---
 title: Начало работы с C++ TeX API
 item1: "Установите из командной строки как ```nuget install Aspose.TeX.Cpp``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.TeX.Cpp```."
-item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/tex/cpp).
+item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

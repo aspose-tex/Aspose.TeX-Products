@@ -44,7 +44,7 @@ item5: "[*TeXJob()*](https://reference.aspose.com/tex/net/aspose.tex/texjob/) Y�
 ---
 title: .NET TeX API'sini Kullanmaya Başlayın
 item1: "Komut satırından ```nuget install Aspose.TeX``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.TeX``` ile kurun."
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/tex/net) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/tex/net) adresinden bir ZIP dosyasında alın.
 ---
 
 {{<section widget>}}

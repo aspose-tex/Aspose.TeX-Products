@@ -26,7 +26,7 @@ p1: "Aspose.TeX for LaTeX to PDF dönüştürücü, Java tarafından desteklenen
 p2: "Burada gördüğünüz API, kendi çapraz platform uygulamanızı oluşturmak veya Java projenize entegre etmek için de kullanılabilir."
 p3: "LaTeX'i PDF'ye dönüştürmek için:"
 p4: "Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüştürme API'si olan [Aspose.TeX for Java](https://products.aspose.com/tex/java) API'sini kullanın."
-p5: "En son sürümünü doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
+p5: "En son sürümünü doğrudan [Aspose Maven Repository](https://repository.aspose.com/tex/) adresinden indirebilir ve Maven'inize yükleyebilirsiniz. pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı bir proje oluşturun."
 ---
 
 {{<section feature1>}}

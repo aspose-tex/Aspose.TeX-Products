@@ -45,7 +45,7 @@ item5: "Jalankan konversi TeX ke XPS menggunakan Metode [*TeXJob()*](https://ref
 ---
 title: Memulai dengan .NET TeX API
 item1: "Instal dari baris perintah sebagai ```nuget install Aspose.TeX``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.TeX```."
-item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/tex/net).
+item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

@@ -44,7 +44,7 @@ item5: "[*TeXJob()*](https://reference.aspose.com/tex/cpp/class/aspose.te_x.te_x
 ---
 title: "C++ टीएक्स एपीआई के साथ आरंभ करें"
 item1: "कमांड लाइन से ```nuget install Aspose.TeX.Cpp``` के रूप में या ````Install-Package Aspose.TeX.Cpp```के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।"
-item2: "वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/tex/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।"
+item2: "वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/tex/cpp) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।"
 ---
 
 {{<section widget>}}

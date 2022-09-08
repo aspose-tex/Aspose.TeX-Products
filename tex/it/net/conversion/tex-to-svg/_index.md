@@ -45,7 +45,7 @@ item5: "Esegui la conversione da TeX a SVG usando il metodo [*TeXJob()*](https:/
 ---
 title: Inizia con l'API .NET TeX
 item1: "Installa dalla riga di comando come ```nuget install Aspose.TeX``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.TeX```."
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/tex/net).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

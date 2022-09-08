@@ -44,7 +44,7 @@ item5: "Futtassa a TeX-ből SVG-vé konvertálást a [*TeXJob()*](https://refere
 ---
 title: Kezdje el a C++ TeX API-t
 item1: "Telepítés parancssorból ```nuget install Aspose.TeX.Cpp```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.TeX.Cpp``` segítségével."
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://downloads.aspose.com/tex/cpp) webhelyről .
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads](https://releases.aspose.com/tex/cpp) webhelyről .
 ---
 
 {{<section widget>}}

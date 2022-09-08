@@ -6,7 +6,7 @@ description: TeX हाई कोड API और ऐप्स TeX दस्ता
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="टीएक्स एकीकरण समाधान" h2="एपीआई समाधान और क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन टीएक्स (लाTEX) फ़ाइलों को टाइप करने, संपादित करने और कनवर्ट करने के लिए।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="टीएक्स एकीकरण समाधान" h2="एपीआई समाधान और क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन टीएक्स (लाTEX) फ़ाइलों को टाइप करने, संपादित करने और कनवर्ट करने के लिए।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-brand.svg" imageAlt="Aspose.TeX Product Solution" downloadUrl="https://releases.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX हाई कोड API में शामिल हैं" >}}
@@ -47,7 +47,7 @@ TeX और LaTeX फ़ाइलों को आसान तरीके स�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose के बारे में क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

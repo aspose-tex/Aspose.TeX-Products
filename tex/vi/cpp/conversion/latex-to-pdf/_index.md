@@ -44,7 +44,7 @@ item5: "Chạy chuyển đổi LaTeX sang PDF bằng phương pháp [*TeXJob()*]
 ---
 title: Bắt đầu với C ++ TeX API
 item1: "Cài đặt từ dòng lệnh với tên ```nuget install Aspose.TeX.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.TeX.Cpp ''."
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/tex/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

@@ -26,7 +26,7 @@ p1: "Il convertitore Aspose.TeX per LaTeX in PNG trasforma il file LaTeX in un'i
 p2: "L'API che vedi qui può essere utilizzata anche per creare la tua applicazione multipiattaforma o essere integrata nel tuo progetto Java."
 p3: "Per convertire LaTeX in PNG:"
 p4: "Usa l'API [Aspose.TeX for Java](https://products.aspose.com/tex/java) che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java."
-p5: "Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) e installarla all'interno del tuo Maven basato sul progetto aggiungendo le seguenti configurazioni al file pom.xml."
+p5: "Puoi scaricare la sua ultima versione direttamente da [Aspose Maven Repository](https://repository.aspose.com/tex/) e installarla all'interno del tuo Maven basato sul progetto aggiungendo le seguenti configurazioni al file pom.xml."
 ---
 
 {{<section feature1>}}

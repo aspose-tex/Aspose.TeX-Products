@@ -44,7 +44,7 @@ item5: "Uruchom konwersję LaTeX na PNG przy użyciu metody [*TeXJob()*](https:/
 ---
 title: Zacznij korzystać z .NET TeX API
 item1: "Zainstaluj z wiersza poleceń jako ```nuget install Aspose.TeX``` lub za pomocą konsoli Menedżera pakietów Visual Studio za pomocą ```Install-Package Aspose.TeX```."
-item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://downloads.aspose.com/tex/net).
+item2: Możesz też pobrać instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

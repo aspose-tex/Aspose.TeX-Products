@@ -44,7 +44,7 @@ item5: "Esegui la conversione da LaTeX a PNG usando il metodo [*TeXJob()*](https
 ---
 title: Inizia con l'API C++ TeX
 item1: "Installa dalla riga di comando come ```nuget install Aspose.TeX.Cpp``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.TeX.Cpp```."
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/tex/cpp).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

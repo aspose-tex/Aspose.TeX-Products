@@ -44,7 +44,7 @@ item5: "Uruchom konwersję TeX na BMP przy użyciu metody [*TeXJob()*](https://r
 ---
 title: Zacznij korzystać z C++ TeX API
 item1: "Zainstaluj z wiersza poleceń jako ```nuget install Aspose.TeX.Cpp``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.TeX.Cpp```."
-item2: Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze strony [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze strony [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

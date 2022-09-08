@@ -44,7 +44,7 @@ item5: "قم بتشغيل تحويل TeX إلى JPEG باستخدام أسلوب
 ---
 title: ابدأ مع C++ TeX API
 item1: "قم بالتثبيت من سطر الأوامر كـ ```nuget install Aspose.TeX.Cpp``` أو عبر Package Manager Console في Visual Studio مع ```Install-Package Aspose.TeX.Cpp ."
-item2: بدلاً من ذلك و احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/tex/cpp) ..
+item2: بدلاً من ذلك و احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/tex/cpp) ..
 ---
 
 {{<section widget>}}

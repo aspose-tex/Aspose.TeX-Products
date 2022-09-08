@@ -45,7 +45,7 @@ item5: "Execute a conversão de TeX para JPEG usando o método [*TeXJob()*](http
 ---
 title: Introdução à API do .NET TeX
 item1: "Instale a partir da linha de comando como ```nuget install Aspose.TeX``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.TeX```."
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/tex/net).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

@@ -26,7 +26,7 @@ p1: "Aspose.TeX for LaTeX to BMP converter mengubah file LaTeX menjadi gambar BM
 p2: "API yang Anda lihat di sini juga dapat digunakan untuk membuat aplikasi lintas platform Anda sendiri atau diintegrasikan ke dalam proyek Java Anda."
 p3: "Untuk mengonversi LaTeX ke BMP:"
 p4: "Gunakan [Aspose.TeX for Java](https://products.aspose.com/tex/java) API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java."
-p5: "Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) dan menginstalnya di dalam Maven Anda -proyek berbasis dengan menambahkan konfigurasi berikut ke pom.xml."
+p5: "Anda dapat mengunduh versi terbarunya langsung dari [Aspose Maven Repository](https://repository.aspose.com/tex/) dan menginstalnya di dalam Maven Anda -proyek berbasis dengan menambahkan konfigurasi berikut ke pom.xml."
 ---
 
 {{<section feature1>}}

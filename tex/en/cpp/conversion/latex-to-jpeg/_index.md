@@ -44,7 +44,7 @@ item5: "Run LaTeX to JPEG conversion using [*TeXJob()*](https://reference.aspose
 ---
 title: Get Started with C++ TeX API
 item1: "Install from command line as ```nuget install Aspose.TeX.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.TeX.Cpp```."
-item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

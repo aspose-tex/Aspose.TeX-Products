@@ -26,7 +26,7 @@ p1: "Aspose.TeX for LaTeX to SVG 轉換器使用 Java 支持的任何語言將 L
 p2: "您在此處看到的 API 還可用於創建您自己的跨平台應用程序或集成到您的 Java 項目中。"
 p3: "為了將 LaTeX 轉換為 SVG："
 p4: "使用 [Aspose.TeX for Java](https://products.aspose.com/tex/java) API，它是一個功能豐富、功能強大且易於使用的 Java 平台轉換 API。"
-p5: "您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) 下載其最新版本並將其安裝在您的 Maven 中通過將以下配置添加到 pom.xml 中的基於項目的項目。"
+p5: "您可以直接從 [Aspose Maven Repository](https://repository.aspose.com/tex/) 下載其最新版本並將其安裝在您的 Maven 中通過將以下配置添加到 pom.xml 中的基於項目的項目。"
 ---
 
 {{<section feature1>}}

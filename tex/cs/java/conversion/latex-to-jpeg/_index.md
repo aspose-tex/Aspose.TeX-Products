@@ -26,7 +26,7 @@ p1: "Aspose.TeX for LaTeX to JPEG converter transformuje LaTeX soubor na obráze
 p2: "Rozhraní API, které zde vidíte, lze také použít k vytvoření vlastní aplikace pro více platforem nebo k integraci do vašeho projektu Java."
 p3: "Chcete-li převést LaTeX na JPEG:"
 p4: "Použijte [Aspose.TeX for Java](https://products.aspose.com/tex/java) API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java."
-p5: "Jeho nejnovější verzi si můžete stáhnout přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml."
+p5: "Jeho nejnovější verzi si můžete stáhnout přímo z [Aspose Maven Repository](https://repository.aspose.com/tex/) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml."
 ---
 
 {{<section feature1>}}

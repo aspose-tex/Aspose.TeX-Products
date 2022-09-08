@@ -26,7 +26,7 @@ p1: "Aspose.TeX for TeX から BMP へのコンバーターは、Java がサポ�
 p2: "ここに表示されている API を使用して、独自のクロスプラットフォーム アプリケーションを作成したり、Java プロジェクトに統合したりすることもできます。"
 p3: "TeX を BMP に変換するには:"
 p4: "[Aspose.TeX for Java](https://products.aspose.com/tex/java) API を使用します。これは、Java プラットフォーム用の機能が豊富で強力で使いやすい変換 API です。"
-p5: "[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) から最新バージョンを直接ダウンロードして、Maven 内にインストールできます。次の設定を pom.xml に追加して、ベースのプロジェクトを作成します。"
+p5: "[Aspose Maven Repository](https://repository.aspose.com/tex/) から最新バージョンを直接ダウンロードして、Maven 内にインストールできます。次の設定を pom.xml に追加して、ベースのプロジェクトを作成します。"
 ---
 
 {{<section feature1>}}

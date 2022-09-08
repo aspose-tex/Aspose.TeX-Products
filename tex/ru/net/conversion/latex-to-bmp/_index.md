@@ -44,7 +44,7 @@ item5: "Запустите преобразование LaTeX в BMP, испол
 ---
 title: Начало работы с .NET TeX API
 item1: "Установите из командной строки как ```nuget install Aspose.TeX``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.TeX```."
-item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/tex/net).
+item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

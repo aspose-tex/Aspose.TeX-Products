@@ -6,7 +6,7 @@ description: مكتبة C# ASP.NET VB.NET لتنضيد مستندات TeX. يد�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لتنضيد ملفات TeX" h2="تنضيد ملفات TeX ضمن التطبيقات المستندة إلى .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لتنضيد ملفات TeX" h2="تنضيد ملفات TeX ضمن التطبيقات المستندة إلى .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/tex/net" tryOnlineUrl="https://products.aspose.app/tex/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
@@ -412,7 +412,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/tex/net" pricingInformationLink="https://purchase.aspose.com/pricing/tex/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/tex/net" pricingInformationLink="https://purchase.aspose.com/pricing/tex/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="تقدم Aspose.TeX واجهات برمجة تطبيقات معالجة TeX فردية لبيئات التطوير الشائعة الأخرى كما هو مذكور أدناه:" >}}
 

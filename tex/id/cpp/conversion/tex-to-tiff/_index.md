@@ -44,7 +44,7 @@ item5: "Jalankan konversi TeX ke TIFF menggunakan Metode [*TeXJob()*](https://re
 ---
 title: Memulai dengan C++ TeX API
 item1: "Instal dari baris perintah sebagai ```nuget install Aspose.TeX.Cpp``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.TeX.Cpp```."
-item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/tex/cpp).
+item2: Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/tex/cpp).
 ---
 
 {{<section widget>}}

@@ -26,7 +26,7 @@ p1: "Aspose.TeX for TeX to PNG转换器使用Java支持的任何语言将TeX文�
 p2: "您在此处看到的 API 还可用于创建您自己的跨平台应用程序或集成到您的 Java 项目中。"
 p3: "为了将 TeX 转换为 PNG："
 p4: "使用 [Aspose.TeX for Java](https://products.aspose.com/tex/java) API，它是一个功能丰富、功能强大且易于使用的 Java 平台转换 API。"
-p5: "您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) 下载其最新版本并将其安装在您的 Maven 中通过将以下配置添加到 pom.xml 中的基于项目的项目。"
+p5: "您可以直接从 [Aspose Maven Repository](https://repository.aspose.com/tex/) 下载其最新版本并将其安装在您的 Maven 中通过将以下配置添加到 pom.xml 中的基于项目的项目。"
 ---
 
 {{<section feature1>}}

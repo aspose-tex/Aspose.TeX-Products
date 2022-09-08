@@ -44,7 +44,7 @@ item5: "Voer de TeX-naar-BMP-conversie uit met de methode [*TeXJob()*](https://r
 ---
 title: Aan de slag met .NET TeX API
 item1: "Installeer vanaf de opdrachtregel als ```nuget install Aspose.TeX``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.TeX```."
-item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/tex/net).
+item2: U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}

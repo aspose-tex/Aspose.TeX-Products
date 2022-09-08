@@ -26,7 +26,7 @@ p1: "Aspose.TeX voor TeX naar XPS-converter transformeert TeX-bestand naar XPS-a
 p2: "De API die u hier ziet, kan ook worden gebruikt om uw eigen platformonafhankelijke toepassing te maken of te worden geïntegreerd in uw Java-project."
 p3: "Om TeX naar XPS te converteren:"
 p4: "Gebruik [Aspose.TeX for Java](https://products.aspose.com/tex/java) API, een veelzijdige, krachtige en gebruiksvriendelijke conversie-API voor het Java-platform."
-p5: "U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex) en installeren in uw Maven -gebaseerd project door de volgende configuraties toe te voegen aan de pom.xml."
+p5: "U kunt de nieuwste versie rechtstreeks downloaden van [Aspose Maven Repository](https://repository.aspose.com/tex/) en installeren in uw Maven -gebaseerd project door de volgende configuraties toe te voegen aan de pom.xml."
 ---
 
 {{<section feature1>}}

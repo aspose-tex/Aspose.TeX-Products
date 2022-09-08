@@ -44,7 +44,7 @@ item5: "เรียกใช้การแปลง LaTeX เป็น BMP โ
 ---
 title: เริ่มต้นใช้งาน .NET TeX API
 item1: "ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.TeX``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.TeX```"
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/tex/net)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/tex/net)
 ---
 
 {{<section widget>}}

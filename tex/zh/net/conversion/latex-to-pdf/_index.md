@@ -44,7 +44,7 @@ item5: "使用 [*TeXJob()*](https://reference.aspose.com/tex/net/aspose.tex/texj
 ---
 title: .NET TeX API 入门
 item1: "从命令行安装为 ```nuget install Aspose.TeX``` 或通过 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.TeX``` 安装。"
-item2: 或者，从 [下载](https://downloads.aspose.com/tex/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
+item2: 或者，从 [下载](https://releases.aspose.com/tex/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
 ---
 
 {{<section widget>}}

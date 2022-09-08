@@ -45,7 +45,7 @@ item5: "Run TeX to PNG conversion using [*TeXJob()*](https://reference.aspose.co
 ---
 title: Get Started with .NET TeX API
 item1: "Install from command line as ```nuget install Aspose.TeX``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.TeX```."
-item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/net).
+item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/tex/net).
 ---
 
 {{<section widget>}}
