@@ -396,7 +396,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/net" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/net/" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

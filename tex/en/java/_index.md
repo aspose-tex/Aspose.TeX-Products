@@ -1,7 +1,7 @@
 ---
 title: Java API to process TeX and LaTeX Docs
 weight: 40
-url: /java/ 
+url: /java/
 description: Java TeX library to process TeX files within Java applications. It offers typesetting functionality and conversion TeX to PDf, SVG, XPS, and other formats.
 ---
 
@@ -18,7 +18,7 @@ TeX is a programming language, you may find it called a data markup one. At the 
 It is used for mathematical or technical text writing. Many different packets have been created on the basis of ΤeΧ. The most famous such packet is LaTeX. It lets authors focus on the text and leave the typography process to the program. With LaTeX the structured documents are easy to create and manage.
 </p>
 <p>
-Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly. 
+Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -320,7 +320,7 @@ Aspose.TeX for Java is a flexible and easy-to-use library to typeset TeX and LaT
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/java" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/tex/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
