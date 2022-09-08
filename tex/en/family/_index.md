@@ -2,7 +2,7 @@
 title: TeX API solution for Java, .NET and C++
 weight: 10
 url: /family
-description: TeX Native APIs for .NET, Java and C++. This is an easy-to-use and integrate solution to typeset, process and convert TeX and LaTeX files on any platform. 
+description: TeX Native APIs for .NET, Java and C++. This is an easy-to-use and integrate solution to typeset, process and convert TeX and LaTeX files on any platform.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -31,6 +31,7 @@ Integrate TeX files typesetting and conversion functionality into C++ applicatio
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

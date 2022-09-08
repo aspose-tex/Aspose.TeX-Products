@@ -1,7 +1,7 @@
 ---
-title: C++ TeX Integration and Processing API - Aspose 
+title: C++ TeX Integration and Processing API - Aspose
 weight: 50
-url: /cpp/ 
+url: /cpp/
 description: C++ TeX library to process TeX files within C++ applications. It offers typesetting functionality along with conversion TeX to PDf, SVG, XPS, and other formats.
 keywords: tex conversion api cpp, tex converter c++ integrate
 ---
@@ -19,7 +19,7 @@ TeX is a programming language, you may find it called a data markup one. At the 
 It is used for mathematical or technical text writing. Many different packets have been created on the basis of ΤeΧ. The most famous such packet is LaTeX. It lets authors focus on the text and leave the typography process to the program. With LaTeX the structured documents are easy to create and manage.
 </p>
 <p>
-Aspose.TeX for C++ is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly. 
+Aspose.TeX for C++ is a flexible and easy-to-use library to typeset TeX and LaTeX files. API supports multiple output formats like XPS, PDF, PNG, JPEG, TIFF, SVG, BMP. It meant that with the functionality of this library you can convert TeX and LaTeX files to any of the output formats. With the solution, you can create a custom TeX format if you want to create and/or typeset a bunch of documents designed uniformly.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -326,6 +326,7 @@ Aspose.TeX for C++ is a flexible and easy-to-use library to typeset TeX and LaTe
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
