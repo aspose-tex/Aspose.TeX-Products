@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX เป็น XPS Converdion API | .NET
+title: LaTeX เป็น XPS Conversion API| .NET
 description: ฟังก์ชันการแปลง LaTeX เป็น XPS รวมไลบรารี .NET ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น XPS
 keywords: 'latex เป็น xps api net, latex2xps รวม c #'
 url: /net/conversion/latex-to-xps/

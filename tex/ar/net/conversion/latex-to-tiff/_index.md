@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX إلى TIFF Converdion API | .NET
+title: LaTeX إلى TIFF واجهة برمجة تطبيقات تحويل | .NET
 description: وظائف تحويل LaTeX إلى TIFF. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى TIFF.
 keywords: 'اللاتكس إلى شبكة api tiff و latex2tiff تكامل c #'
 url: /net/conversion/latex-to-tiff/

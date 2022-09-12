@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX เป็น TIFF Converdion API | Java
+title: TeX เป็น TIFF Conversion API| Java
 description: ฟังก์ชันการแปลง TeX เป็น TIFF รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง TeX เป็น TIFF
 keywords: เท็กซ์เป็น tiff api java, tex2tiff ผสานรวม
 url: /java/conversion/tex-to-tiff/

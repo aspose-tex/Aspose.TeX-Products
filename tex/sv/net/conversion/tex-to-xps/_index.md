@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: TeX till XPS Converdion API | .NET
+title: TeX till XPS Conversion API| .NET
 description: TeX till XPS konverteringsfunktion. Integrera detta lokala .NET-bibliotek i ditt projekt eller använd plattformsoberoende applikationer för att konvertera TeX till XPS.
 keywords: tex till xps api net, tex2xps integrera c#
 url: /net/conversion/tex-to-xps/

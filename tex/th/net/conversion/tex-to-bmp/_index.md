@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: TeX เป็น BMP Converdion API | .NET
+title: TeX เป็น BMP Conversion API| .NET
 description: ฟังก์ชันการแปลง TeX เป็น BMP รวมไลบรารี .NET ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง TeX เป็น BMP
 keywords: 'tex ถึง bmp api net, tex2bmp รวม c #'
 url: /net/conversion/tex-to-bmp/

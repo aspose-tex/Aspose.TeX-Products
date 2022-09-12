@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-cpp.md
-title: LaTeX till TIFF Converdion API | C++
+title: LaTeX till TIFF Conversion API| C++
 description: LaTeX till TIFF konverteringsfunktion. Integrera detta lokala C++-bibliotek i ditt projekt eller använd plattformsoberoende applikationer för att konvertera LaTeX till TIFF.
 keywords: latex till tiff api cpp, latex2tiff integrera c++
 url: /cpp/conversion/latex-to-tiff/

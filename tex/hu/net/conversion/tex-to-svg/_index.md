@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: TeX to SVG Converdion API | .NET
+title: TeX to SVG Conversion API| .NET
 description: TeX-SVG konvertálási funkció. Integrálja ezt a helyszíni .NET-könyvtárat a projektjébe, vagy használjon többplatformos alkalmazásokat a TeX SVG-vé alakításához.
 keywords: tex to svg api net, tex2svg integráció c#
 url: /net/conversion/tex-to-svg/

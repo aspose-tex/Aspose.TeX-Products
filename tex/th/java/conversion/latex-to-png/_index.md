@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: LaTeX เป็น PNG Converdion API | Java
+title: LaTeX เป็น PNG Conversion API| Java
 description: ฟังก์ชันการแปลง LaTeX เป็น PNG รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น PNG
 keywords: latex เป็น png api java, latex2png ผสานรวม
 url: /java/conversion/latex-to-png/

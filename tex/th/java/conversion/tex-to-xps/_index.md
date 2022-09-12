@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX เป็น XPS Converdion API | Java
+title: TeX เป็น XPS Conversion API| Java
 description: ฟังก์ชันการแปลง TeX เป็น XPS รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง TeX เป็น XPS
 keywords: tex เป็น xps api java รวม tex2xps
 url: /java/conversion/tex-to-xps/

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX إلى واجهة برمجة تطبيقات JPEG Converdion | .NET
+title: واجهة برمجة تطبيقات تحويل LaTeX إلى JPEG| .NET
 description: وظائف تحويل LaTeX إلى JPEG. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى JPEG.
 keywords: 'اللاتكس إلى jpeg api net و latex2jpeg دمج c #'
 url: /net/conversion/latex-to-jpeg/

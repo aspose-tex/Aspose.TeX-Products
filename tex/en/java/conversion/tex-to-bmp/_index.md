@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX to BMP Converdion API | Java 
+title: TeX to BMP Conversion API| Java 
 description: TeX to BMP conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert TeX to BMP.
 keywords: tex to bmp api java, tex2bmp integrate
 url: /java/conversion/tex-to-bmp/

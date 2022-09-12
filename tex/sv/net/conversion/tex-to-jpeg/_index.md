@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: TeX till JPEG Converdion API | .NET
+title: TeX till JPEG Conversion API| .NET
 description: TeX till JPEG-konverteringsfunktionalitet. Integrera detta lokala .NET-bibliotek i ditt projekt eller använd plattformsoberoende applikationer för att konvertera TeX till JPEG.
 keywords: tex till jpeg api net, tex2jpeg integrera c#
 url: /net/conversion/tex-to-jpeg/

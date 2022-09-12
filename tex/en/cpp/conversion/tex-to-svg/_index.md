@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /_templates/_conversion-child-cpp.md
-title: TEX to SVG Converdion API | C++ 
+title: TEX to SVG Conversion API| C++ 
 description: TeX to SVG conversion functionality. Integrate this on-premise C++ library into your project or use cross-platform applications to convert TeX to SVG.
 keywords: tex to svg api cpp, tex2svg integrate c++
 url: /cpp/conversion/tex-to-svg/

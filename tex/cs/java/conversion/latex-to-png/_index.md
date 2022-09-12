@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: LaTeX na PNG Converdion API | Java
+title: LaTeX na PNG Conversion API| Java
 description: Funkce převodu LaTeX do PNG. Integrujte tuto místní knihovnu Java do svého projektu nebo použijte multiplatformní aplikace pro převod LaTeXu na PNG.
 keywords: latex to png api java, latex2png integrovat
 url: /java/conversion/latex-to-png/

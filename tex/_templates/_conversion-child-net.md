@@ -3,7 +3,7 @@ template: true
 title: {{i18n.title}}
 description: {{i18n.description}}
 url: {{i18n.url}}
-family: page
+family: tex
 platformtag: net
 feature: conversion
 informat: {{i18n.informat}}

@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /_templates/_conversion-child-cpp.md
-title: LaTeX to XPS  Converdion API | C++ 
+title: LaTeX to XPS  Conversion API| C++ 
 description: LaTeX to XPS conversion functionality. Integrate this on-premise C++ library into your project or use cross-platform applications to convert LaTeX to XPS.
 keywords: latex to xps api cpp, latex2xps integrate c++
 url: /cpp/conversion/latex-to-xps/

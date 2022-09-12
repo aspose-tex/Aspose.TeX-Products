@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX to JPEG Converdion API | .NET
+title: LaTeX to JPEG Conversion API| .NET
 description: Funkce převodu LaTeX na JPEG. Integrujte tuto místní knihovnu .NET do svého projektu nebo použijte multiplatformní aplikace pro převod LaTeXu na JPEG.
 keywords: latex to jpeg api net, latex2jpeg integrovat c#
 url: /net/conversion/latex-to-jpeg/

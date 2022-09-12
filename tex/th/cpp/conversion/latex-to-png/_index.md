@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-cpp.md
-title: LaTeX เป็น PNG Converdion API | C++
+title: LaTeX เป็น PNG Conversion API| C++
 description: ฟังก์ชันการแปลง LaTeX เป็น PNG รวมไลบรารี C++ ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น PNG
 keywords: ลาเท็กซ์เป็น png api cpp, latex2png รวม c++
 url: /cpp/conversion/latex-to-png/
