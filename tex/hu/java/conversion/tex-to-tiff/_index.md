@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX to TIFF Converdion API | Java
+title: TeX to TIFF Conversion API| Java
 description: TeX-TIFF konvertálási funkció. Integrálja ezt a helyszíni Java-könyvtárat a projektjébe, vagy használjon többplatformos alkalmazásokat a TeX TIFF formátumba konvertálásához.
 keywords: tex to tiff api java, tex2tiff integráció
 url: /java/conversion/tex-to-tiff/

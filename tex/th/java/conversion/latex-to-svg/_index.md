@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: LaTeX เป็น SVG Converdion API | Java
+title: LaTeX เป็น SVG Conversion API| Java
 description: ฟังก์ชันการแปลง LaTeX เป็น SVG รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น SVG
 keywords: ลาเท็กซ์เป็น svg api java, latex2svg ผสานรวม
 url: /java/conversion/latex-to-svg/

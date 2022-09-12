@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX to PDF Converdion API | Java 
+title: TeX to PDF Conversion API| Java 
 description: TeX to PDF conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert TeX to PDF.
 keywords: tex to pdf api jpeg, tex2pdf integrate
 url: /java/conversion/tex-to-pdf/

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX to PNG Converdion API | Java
+title: TeX to PNG Conversion API| Java
 description: TeX-PNG konvertálási funkció. Integrálja ezt a helyszíni Java-könyvtárat a projektjébe, vagy használjon többplatformos alkalmazásokat a TeX PNG-re konvertálásához.
 keywords: tex to png api java, tex2png integrál
 url: /java/conversion/tex-to-png/

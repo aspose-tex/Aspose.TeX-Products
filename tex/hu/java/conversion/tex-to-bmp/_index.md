@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX to BMP Converdion API | Java
+title: TeX to BMP Conversion API| Java
 description: TeX-BMP konvertálási funkció. Integrálja ezt a helyszíni Java-könyvtárat a projektjébe, vagy használjon többplatformos alkalmazásokat a TeX BMP-vé konvertálásához.
 keywords: tex to bmp api java, tex2bmp integráció
 url: /java/conversion/tex-to-bmp/

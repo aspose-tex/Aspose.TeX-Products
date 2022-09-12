@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: TeX เป็น PDF Converdion API | Java
+title: TeX เป็น PDF Conversion API| Java
 description: ฟังก์ชันการแปลง TeX เป็น PDF รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง TeX เป็น PDF
 keywords: tex เป็น pdf api jpeg, tex2pdf ผสานรวม
 url: /java/conversion/tex-to-pdf/

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: من TeX إلى PNG Converdion API | .NET
+title: من TeX إلى PNG واجهة برمجة تطبيقات تحويل | .NET
 description: وظيفة تحويل TeX إلى PNG. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل TeX إلى PNG.
 keywords: 'tex إلى png api net و tex2png دمج c #'
 url: /net/conversion/tex-to-png/

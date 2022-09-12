@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX إلى PNG Converdion API | .NET
+title: LaTeX إلى PNG واجهة برمجة تطبيقات التحويل | .NET
 description: LaTeX إلى وظائف تحويل PNG. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى PNG.
 keywords: 'اللاتكس إلى بابوا نيو غينيا api net و latex2png دمج c #'
 url: /net/conversion/latex-to-png/

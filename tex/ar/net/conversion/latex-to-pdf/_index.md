@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX إلى PDF Converdion API | .NET
+title: LaTeX إلى PDF واجهة برمجة تطبيقات تحويل | .NET
 description: وظائف تحويل LaTeX إلى PDF. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل LaTeX إلى PDF.
 keywords: 'اللاتكس إلى pdf api net و دمج latex2pdf c #'
 url: /net/conversion/latex-to-pdf/

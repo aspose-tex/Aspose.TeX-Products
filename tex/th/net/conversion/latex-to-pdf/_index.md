@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX เป็น PDF Converdion API | .NET
+title: LaTeX เป็น PDF Conversion API| .NET
 description: ฟังก์ชันการแปลง LaTeX เป็น PDF รวมไลบรารี .NET ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น PDF
 keywords: 'latex เป็น pdf api net, latex2pdf รวม c #'
 url: /net/conversion/latex-to-pdf/

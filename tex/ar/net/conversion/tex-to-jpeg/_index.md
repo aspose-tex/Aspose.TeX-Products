@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: من TeX إلى واجهة برمجة تطبيقات JPEG Converdion | .NET
+title: واجهة برمجة تطبيقات تحويل TeX إلى JPEG | .NET
 description: وظيفة تحويل TeX إلى JPEG. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل TeX إلى JPEG.
 keywords: 'tex إلى jpeg api net و دمج tex2jpeg c #'
 url: /net/conversion/tex-to-jpeg/

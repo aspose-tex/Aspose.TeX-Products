@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: TeX เป็น PDF Converdion API | .NET
+title: TeX เป็น PDF Conversion API| .NET
 description: ฟังก์ชันการแปลง TeX เป็น PDF รวมไลบรารี .NET ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง TeX เป็น PDF
 keywords: 'tex เป็น pdf api net, tex2pdf รวม c #'
 url: /net/conversion/tex-to-pdf/

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: LaTeX เป็น TIFF Converdion API | .NET
+title: LaTeX เป็น TIFF Conversion API| .NET
 description: ฟังก์ชันการแปลง LaTeX เป็น TIFF รวมไลบรารี .NET ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น TIFF
 keywords: 'latex เป็น tiff api net, latex2tiff รวม c #'
 url: /net/conversion/latex-to-tiff/

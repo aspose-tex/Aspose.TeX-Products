@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-net.md
-title: من TeX إلى PDF Converdion API | .NET
+title: من TeX إلى PDF واجهة برمجة تطبيقات تحويل | .NET
 description: وظيفة تحويل TeX إلى PDF. ادمج مكتبة .NET المحلية هذه في مشروعك أو استخدم التطبيقات عبر الأنظمة الأساسية لتحويل TeX إلى PDF.
 keywords: 'tex إلى pdf api net و تكامل tex2pdf c #'
 url: /net/conversion/tex-to-pdf/

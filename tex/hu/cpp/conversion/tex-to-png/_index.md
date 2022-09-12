@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-cpp.md
-title: TEX to PNG Converdion API | C++
+title: TEX to PNG Conversion API| C++
 description: TeX-PNG konvertálási funkció. Integrálja ezt a helyszíni C++ könyvtárat a projektjébe, vagy használjon többplatformos alkalmazásokat a TeX PNG-re konvertálásához.
 keywords: tex to png api cpp, tex2png integrál c++
 url: /cpp/conversion/tex-to-png/

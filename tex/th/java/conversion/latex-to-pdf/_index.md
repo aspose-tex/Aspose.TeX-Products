@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: LaTeX เป็น PDF Converdion API | Java
+title: LaTeX เป็น PDF Conversion API| Java
 description: ฟังก์ชันการแปลง LaTeX เป็น PDF รวมไลบรารี Java ภายในองค์กรนี้เข้ากับโครงการของคุณหรือใช้แอปพลิเคชันข้ามแพลตฟอร์มเพื่อแปลง LaTeX เป็น PDF
 keywords: latex เป็น pdf api java, latex2pdf ผสานรวม
 url: /java/conversion/latex-to-pdf/

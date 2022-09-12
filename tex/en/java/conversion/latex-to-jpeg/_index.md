@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /_templates/_conversion-child-java.md
-title: LaTeX to JPEG Converdion API | Java 
+title: LaTeX to JPEG Conversion API| Java 
 description: LaTeX to JPEG conversion functionality. Integrate this on-premise Java library into your project or use cross-platform applications to convert LaTeX to JPEG.
 keywords: latex to jpeg api java, latex2jpeg integrate
 url: /java/conversion/latex-to-jpeg/
