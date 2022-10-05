@@ -41,7 +41,7 @@ Konvertálja a TeX és LaTeX fájlokat PDF, XPS vagy képformátumokká.
 Kombináljon több TeX vagy LaTeX fájlt egyetlen PDF fájlba.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Az összes kód nélküli alkalmazás megtekintése" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Az összes kód nélküli alkalmazás megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

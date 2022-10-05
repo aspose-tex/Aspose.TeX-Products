@@ -41,7 +41,7 @@ Konvertera TeX- och LaTeX-filer till PDF-, XPS- eller bildformat.
 Kombinera flera TeX- eller LaTeX-filer till en enda PDF-fil.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Visa alla No Code-appar" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Visa alla No Code-appar" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

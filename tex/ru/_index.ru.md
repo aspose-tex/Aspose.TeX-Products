@@ -41,7 +41,7 @@ C++ On Premise API для верстки TeX и преобразования ф�
 Объедините несколько файлов TeX или LaTeX в один файл PDF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Просмотреть все приложения без кода" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Просмотреть все приложения без кода" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

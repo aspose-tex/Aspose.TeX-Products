@@ -41,7 +41,7 @@ Konversikan file TeX dan LaTeX ke PDF, XPS, atau format gambar.
 Gabungkan beberapa file TeX atau LaTeX menjadi satu file PDF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Lihat Semua Aplikasi Tanpa Kode" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Lihat Semua Aplikasi Tanpa Kode" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

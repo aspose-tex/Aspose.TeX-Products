@@ -41,7 +41,7 @@ TeX और LaTeX फ़ाइलों को आसान तरीके स�
 एक PDF फाइल में कई टीएक्स या लाTEX फाइलों को मिलाएं।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="सभी देखें नो कोड ऐप्स" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="सभी देखें नो कोड ऐप्स" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
