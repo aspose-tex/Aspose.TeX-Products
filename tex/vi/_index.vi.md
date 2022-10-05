@@ -41,7 +41,7 @@ Chuyển đổi các tệp TeX và LaTeX sang các định dạng PDF, XPS hoặ
 Kết hợp một số tệp TeX hoặc LaTeX thành một tệp PDF duy nhất.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Xem tất cả ứng dụng không có mã" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Xem tất cả ứng dụng không có mã" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

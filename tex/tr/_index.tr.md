@@ -41,7 +41,7 @@ TeX ve LaTeX dosyalarını PDF, XPS veya görüntü formatlarına dönüştürü
 Birkaç TeX veya LaTeX dosyasını tek bir PDF dosyasında birleştirin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Tüm Kodsuz Uygulamaları Görüntüle" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Tüm Kodsuz Uygulamaları Görüntüle" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

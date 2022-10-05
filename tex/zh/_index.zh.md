@@ -41,7 +41,7 @@ C++ On Premise API 用于排版 TeX 和转换文件。
 将多个 TeX 或 LaTeX 文件合并为一个 PDF 文件。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="查看所有无代码应用程序" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="查看所有无代码应用程序" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

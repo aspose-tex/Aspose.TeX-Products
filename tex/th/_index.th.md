@@ -41,7 +41,7 @@ C++ On Premise API เพื่อพิมพ์ TeX และแปลงไ�
 รวมไฟล์ TeX หรือ LaTeX หลายไฟล์เป็นไฟล์ PDF ไฟล์เดียว
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="ดูทั้งหมด No Code Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="ดูทั้งหมด No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

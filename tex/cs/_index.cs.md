@@ -41,7 +41,7 @@ Převeďte soubory TeX a LaTeX do PDF, XPS nebo obrazových formátů.
 Zkombinujte několik souborů TeX nebo LaTeX do jednoho souboru PDF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Zobrazit všechny aplikace bez kódu" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Zobrazit všechny aplikace bez kódu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

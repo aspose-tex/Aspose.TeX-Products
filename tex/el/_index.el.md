@@ -41,7 +41,7 @@ C++ On Premise API για στοιχειοθέτηση TeX και μετατρο
 Συνδυάστε πολλά αρχεία TeX ή LaTeX σε ένα μόνο αρχείο PDF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Προβολή όλων των εφαρμογών χωρίς κώδικα" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Προβολή όλων των εφαρμογών χωρίς κώδικα" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

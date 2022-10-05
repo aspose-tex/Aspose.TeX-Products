@@ -41,7 +41,7 @@ C++ On Premise API لتنضيد TeX وتحويل الملفات.
 ادمج عدة ملفات TeX أو LaTeX في ملف PDF واحد.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="عرض جميع تطبيقات لا كود" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="عرض جميع تطبيقات لا كود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

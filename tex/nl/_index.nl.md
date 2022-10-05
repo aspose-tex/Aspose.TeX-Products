@@ -41,7 +41,7 @@ Converteer TeX- en LaTeX-bestanden naar PDF-, XPS- of afbeeldingsformaten.
 Combineer meerdere TeX- of LaTeX-bestanden in één PDF-bestand.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Bekijk alle No Code-apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Bekijk alle No Code-apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

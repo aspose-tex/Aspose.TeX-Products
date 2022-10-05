@@ -41,7 +41,7 @@ TeX 및 LaTeX 파일을 PDF, XPS 또는 이미지 형식으로 변환합니다.
 여러 TeX 또는 LaTeX 파일을 하나의 PDF 파일로 결합합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="코드 없음 앱 모두 보기" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="코드 없음 앱 모두 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -41,7 +41,7 @@ Konwertuj pliki TeX i LaTeX do formatów PDF, XPS lub obrazów.
 Połącz kilka plików TeX lub LaTeX w jeden plik PDF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/page/applications" innerText="Zobacz wszystkie aplikacje bez kodu" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/tex/applications" innerText="Zobacz wszystkie aplikacje bez kodu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
